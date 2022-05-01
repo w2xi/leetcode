@@ -10,3 +10,4 @@
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
+|350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./algorithms/intersection-of-two-arrays-ii.js)|Easy|
