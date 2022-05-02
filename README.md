@@ -8,6 +8,7 @@
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|[JavaScript](./algorithms/palindrome-number.js)|Easy|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[JavaScript](./algorithms/longest-common-prefix.js)|Easy|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
+|136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithms/single-number.js)|Easy|
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[JavaScript](./algorithms/reverse-string.js)|Easy|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
