@@ -12,6 +12,7 @@
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithms/single-number.js)|Easy|
+|141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithms/linked-list-cycle.js)|Easy|
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[JavaScript](./algorithms/reverse-linked-list.js)|Easy|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[JavaScript](./algorithms/reverse-string.js)|Easy|
