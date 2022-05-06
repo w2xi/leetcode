@@ -16,6 +16,7 @@
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[JavaScript](./algorithms/reverse-linked-list.js)|Easy|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[JavaScript](./algorithms/palindrome-linked-list.js)|Easy|
+|237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list.js)|Easy|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[JavaScript](./algorithms/reverse-string.js)|Easy|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./algorithms/intersection-of-two-arrays-ii.js)|Easy|
