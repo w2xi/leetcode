@@ -7,6 +7,7 @@
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer/)|[JavaScript](./algorithms/reverse-integer.js)|Medium|
 |8|[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)|[JavaScript](./algorithms/string-to-integer-atoi.js)|Medium|
 |9|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|[JavaScript](./algorithms/palindrome-number.js)|Easy|
+|13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)|[JavaScript](./algorithms/roman-to-integer.js)|Easy|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[JavaScript](./algorithms/longest-common-prefix.js)|Easy|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
