@@ -18,6 +18,7 @@
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithms/single-number.js)|Easy|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithms/linked-list-cycle.js)|Easy|
 |144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[JavaScript](./algorithms/binary-tree-preorder-traversal.js)|Easy|
+|145|[二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|[JavaScript](./algorithms/binary-tree-postorder-traversal.js)|Easy|
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[JavaScript](./algorithms/reverse-linked-list.js)|Easy|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[JavaScript](./algorithms/palindrome-linked-list.js)|Easy|
