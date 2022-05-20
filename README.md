@@ -28,4 +28,5 @@
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./algorithms/intersection-of-two-arrays-ii.js)|Easy|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[JavaScript](./algorithms/first-unique-character-in-a-string.js)|Easy|
+|700|[二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)|[JavaScript](./algorithms/search-in-a-binary-search-tree.js)|Easy|
 |707|[设计链表](https://leetcode.cn/problems/design-linked-list/)|[JavaScript](./algorithms/design-linked-list.js)|Medium|
