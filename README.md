@@ -22,6 +22,7 @@
 |142|[环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)|[JavaScript](./algorithms/linked-list-cycle-ii.js)|Medium|
 |144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[JavaScript](./algorithms/binary-tree-preorder-traversal.js)|Easy|
 |145|[二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|[JavaScript](./algorithms/binary-tree-postorder-traversal.js)|Easy|
+|160|[相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)|[JavaScript](./algorithms/intersection-of-two-linked-lists.js)|Easy|
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |203|[移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)|[JavaScript](./algorithms/remove-linked-list-elements.js)|Easy|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[JavaScript](./algorithms/reverse-linked-list.js)|Easy|
