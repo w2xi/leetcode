@@ -43,3 +43,4 @@
 |707|[设计链表](https://leetcode.cn/problems/design-linked-list/)|[JavaScript](./algorithms/design-linked-list.js)|Medium|
 |876|[链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)|[JavaScript](./algorithms/middle-of-the-linked-list.js)|Easy|
 |912|[排序数组](https://leetcode.cn/problems/sort-an-array/)|[JavaScript](./algorithms/sort-an-array.js)|Medium|
+|965|[单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)|[JavaScript](./algorithms/univalued-binary-tree.js)|Easy|
