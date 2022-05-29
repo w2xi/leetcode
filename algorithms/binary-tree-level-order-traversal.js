@@ -12,6 +12,7 @@
  * @return {number[][]}
  */
 var levelOrder = function (root) {
+  // 1. 先序遍历
   const arr = [];
   const levelOrderNode = (node, level, result) => {
     if (node) {
@@ -29,4 +30,30 @@ var levelOrder = function (root) {
   levelOrderNode(root, 0, arr);
 
   return arr;
+
+  // 2. BFS
+  // if (!root) {
+  //   return [];
+  // }
+  // let res = [];
+  // const q = [];
+  // q.push(root);
+
+  // while (q.length) {
+  //   let size = q.length;
+  //   const temp = [];
+
+  //   while (size--) {
+  //     const node = q.shift();
+  //     temp.push(node.val);
+  //     if (node.left) {
+  //       q.push(node.left);
+  //     }
+  //     if (node.right) {
+  //       q.push(node.right);
+  //     }
+  //   }
+  //   res.push(temp);
+  // }
+  // return res;
 };

@@ -7,7 +7,7 @@
  * }
  */
 /**
- * 相同的树
+ * 相同的树 (深度优先遍历)
  * @param {TreeNode} p
  * @param {TreeNode} q
  * @return {boolean}
