@@ -17,6 +17,7 @@
 |94|[二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)|[JavaScript](./algorithms/binary-tree-inorder-traversal.js)|Easy|
 |100|[相同的树](https://leetcode.cn/problems/same-tree/)|[JavaScript](./algorithms/same-tree.js)|Easy|
 |102|[二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-level-order-traversal.js)|Easy|
+|103|[二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-zigzag-level-order-traversal.js)|Medium|
 |104|[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[JavaScript](./algorithms/maximum-depth-of-binary-tree.js)|Easy|
 |107|[二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/)|[JavaScript](./algorithms/binary-tree-level-order-traversal-ii.js)|Medium|
 |110|[平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)|[JavaScript](./algorithms/balanced-binary-tree.js)|Easy|
