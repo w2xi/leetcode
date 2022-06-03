@@ -10,6 +10,7 @@
 |13|[罗马数字转整数](https://leetcode.cn/problems/roman-to-integer/)|[JavaScript](./algorithms/roman-to-integer.js)|Easy|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[JavaScript](./algorithms/longest-common-prefix.js)|Easy|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
+|26|[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|[JavaScript]()|Easy|
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Easy|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
