@@ -50,6 +50,7 @@
 |404|[左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)|[JavaScript](./algorithms/sum-of-left-leaves.js)|Easy|
 |437|[路径总和 III](https://leetcode.cn/problems/path-sum-iii/)|[JavaScript](./algorithms/path-sum-iii.js)|Medium|
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
+|543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
 |700|[二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)|[JavaScript](./algorithms/search-in-a-binary-search-tree.js)|Easy|
 |704|[二分查找](https://leetcode.cn/problems/binary-search/)|[JavaScript](./algorithms/binary-search.js)|Easy|
 |707|[设计链表](https://leetcode.cn/problems/design-linked-list/)|[JavaScript](./algorithms/design-linked-list.js)|Medium|
