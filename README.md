@@ -54,3 +54,4 @@
 |897|[递增顺序搜索树](https://leetcode.cn/problems/increasing-order-search-tree/)|[JavaScript](./algorithms/increasing-order-search-tree.js)|Easy|
 |912|[排序数组](https://leetcode.cn/problems/sort-an-array/)|[JavaScript](./algorithms/sort-an-array.js)|Medium|
 |965|[单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)|[JavaScript](./algorithms/univalued-binary-tree.js)|Easy|
+|面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
