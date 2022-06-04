@@ -1,5 +1,11 @@
 # LeetCode Solutions With JavaScript
 
+## 分类
+
+[二叉树路径问题](./solution-category/binary-tree-paths.md)
+
+## 题解
+
 |#|Title|Source Code|Difficulty|
 |:---:|:---:|:---:|:---:|
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[JavaScript](./algorithms/two-sum.js)|Easy|
