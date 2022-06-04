@@ -26,7 +26,7 @@
 |110|[平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)|[JavaScript](./algorithms/balanced-binary-tree.js)|Easy|
 |111|[二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)|[JavaScript](./algorithms/minimum-depth-of-binary-tree.js)|Easy|
 |112|[路径总和](https://leetcode.cn/problems/path-sum/)|[JavaScript](./algorithms/path-sum.js)|Easy|
-|113|[路径总和 II](https://leetcode.cn/problems/path-sum-ii/)|[JavaScript]()|Medium|
+|113|[路径总和 II](https://leetcode.cn/problems/path-sum-ii/)|[JavaScript](./algorithms/path-sum-ii.js)|Medium|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithms/single-number.js)|Easy|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithms/linked-list-cycle.js)|Easy|
 |142|[环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)|[JavaScript](./algorithms/linked-list-cycle-ii.js)|Medium|
@@ -41,6 +41,7 @@
 |231|[2 的幂](https://leetcode.cn/problems/power-of-two/)|[JavaScript](./algorithms/power-of-two.js)|Easy|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[JavaScript](./algorithms/palindrome-linked-list.js)|Easy|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list.js)|Easy|
+|257|[二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/)|[JavaScript](./algorithms/binary-tree-paths.js)|Easy|
 |328|[奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/)|[JavaScript](./algorithms/odd-even-linked-list.js)|Medium|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[JavaScript](./algorithms/reverse-string.js)|Easy|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
