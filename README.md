@@ -27,6 +27,7 @@
 |111|[二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)|[JavaScript](./algorithms/minimum-depth-of-binary-tree.js)|Easy|
 |112|[路径总和](https://leetcode.cn/problems/path-sum/)|[JavaScript](./algorithms/path-sum.js)|Easy|
 |113|[路径总和 II](https://leetcode.cn/problems/path-sum-ii/)|[JavaScript](./algorithms/path-sum-ii.js)|Medium|
+|124|[二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)|[JavaScript](./algorithms/binary-tree-maximum-path-sum.js)|Hard|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithms/single-number.js)|Easy|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithms/linked-list-cycle.js)|Easy|
 |142|[环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)|[JavaScript](./algorithms/linked-list-cycle-ii.js)|Medium|
