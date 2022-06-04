@@ -3,6 +3,9 @@
  * @return {number[]}
  */
 var sortArray = function (nums) {
+  // Reference:
+  // https://leetcode.cn/problems/sort-an-array/solution/fu-xi-ji-chu-pai-xu-suan-fa-java-by-liweiwei1419/
+
   // 归并排序
   return mergeSort(nums);
   // 堆排序
