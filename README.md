@@ -22,6 +22,7 @@
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Easy|
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
+|70|[爬楼梯](https://leetcode.cn/problems/climbing-stairs/)|[JavaScript](./algorithms/climbing-stairs.js)|Easy|
 |82|[删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list-ii.js)|Medium|
 |83|[删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list.js)|Easy|
 |88|[合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array.js)|Easy|
