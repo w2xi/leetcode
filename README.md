@@ -28,6 +28,7 @@
 |88|[合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array.js)|Easy|
 |94|[二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)|[JavaScript](./algorithms/binary-tree-inorder-traversal.js)|Easy|
 |100|[相同的树](https://leetcode.cn/problems/same-tree/)|[JavaScript](./algorithms/same-tree.js)|Easy|
+|101|[对称二叉树](https://leetcode.cn/problems/symmetric-tree/)|[JavaScript](./algorithms/symmetric-tree.js)|Easy|
 |102|[二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-level-order-traversal.js)|Easy|
 |103|[二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-zigzag-level-order-traversal.js)|Medium|
 |104|[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[JavaScript](./algorithms/maximum-depth-of-binary-tree.js)|Easy|
