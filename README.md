@@ -49,6 +49,7 @@
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |203|[移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)|[JavaScript](./algorithms/remove-linked-list-elements.js)|Easy|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[JavaScript](./algorithms/reverse-linked-list.js)|Easy|
+|226|[翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|[JavaScript](./algorithms/invert-binary-tree.js)|Easy|
 |231|[2 的幂](https://leetcode.cn/problems/power-of-two/)|[JavaScript](./algorithms/power-of-two.js)|Easy|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[JavaScript](./algorithms/palindrome-linked-list.js)|Easy|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list.js)|Easy|
