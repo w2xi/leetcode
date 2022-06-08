@@ -37,7 +37,7 @@ var isSymmetric = function (root) {
 
 var levelOrderTraverse = function (root) {
   const arr = [];
-  // 层序遍历
+  // 层序遍历，存储每一层的数据
   const levelOrderTraverseNode = (node, level = 0) => {
     if (!arr[level]) arr[level] = [];
     arr[level].push(node ? node.val : null);
