@@ -19,6 +19,7 @@
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
 |26|[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|[JavaScript]()|Easy|
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./algorithms/find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Easy|
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
