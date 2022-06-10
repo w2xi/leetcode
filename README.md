@@ -17,8 +17,10 @@
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[JavaScript](./algorithms/longest-common-prefix.js)|Easy|
 |20|[有效的括号](https://leetcode.cn/problems/valid-parentheses/)|[JavaScript](./algorithms/valid-parentheses.js)|Easy|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
-|26|[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|[JavaScript]()|Easy|
+|26|[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array.js)|Easy|
+|27|[移除元素](https://leetcode.cn/problems/remove-element/)|[JavaScript](./algorithms/remove-element.js)|Easy|
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./algorithms/find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Easy|
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
@@ -72,5 +74,6 @@
 |897|[递增顺序搜索树](https://leetcode.cn/problems/increasing-order-search-tree/)|[JavaScript](./algorithms/increasing-order-search-tree.js)|Easy|
 |912|[排序数组](https://leetcode.cn/problems/sort-an-array/)|[JavaScript](./algorithms/sort-an-array.js)|Medium|
 |965|[单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)|[JavaScript](./algorithms/univalued-binary-tree.js)|Easy|
+|977|[有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)|[JavaScript](./algorithms/squares-of-a-sorted-array.js)|Easy|
 |988|[从叶结点开始的最小字符串](https://leetcode.cn/problems/smallest-string-starting-from-leaf/)|[JavaScript](./algorithms/smallest-string-starting-from-leaf.js)|Medium|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
