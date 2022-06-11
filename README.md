@@ -2,7 +2,11 @@
 
 ## 分类
 
-[二叉树路径问题](./solution-category/binary-tree-paths.md)
+### 二叉树
+
+[二叉树遍历](./solution-category/binary-tree-traverse.md)
+[二叉树路径问题](./solution-category/binary-tree/binary-tree-paths.md)
+
 
 ## 题解
 
