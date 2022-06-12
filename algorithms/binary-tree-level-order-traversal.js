@@ -7,53 +7,50 @@
  * }
  */
 /**
- * 二叉树的层序遍历
  * @param {TreeNode} root
  * @return {number[][]}
  */
 var levelOrder = function (root) {
-  // 1. 先序遍历
-  const arr = [];
-  const levelOrderNode = (node, level, result) => {
+  // 1. 迭代 (BFS)
+  if (!root) {
+    return [];
+  }
+  let result = [];
+  const q = [];
+  q.push(root);
+
+  while (q.length) {
+    let size = q.length;
+    // 保存每层的结果
+    const temp = [];
+
+    while (size--) {
+      const node = q.shift();
+      temp.push(node.val);
+      node.left && q.push(node.left);
+      node.right && q.push(node.right);
+    }
+    result.push(temp);
+  }
+  return result;
+
+  // 2. 递归 (DFS)
+  // return levelOrderRecursive(root);
+};
+
+function levelOrderRecursive(root) {
+  const result = [];
+  const levelOrderTraverseNode = (node, level = 0) => {
     if (node) {
-      // 把每层节点的值放入结果数组中（层数对应数组下标）
-      if (result.length === level) {
-        result.push([]);
-      }
+      if (!result[level]) result[level] = [];
+      // 把每层的节点值放入到对应层级的数组中
       result[level].push(node.val);
-      // 遍历左子树
-      levelOrderNode(node.left, level + 1, result);
-      // 遍历右子树
-      levelOrderNode(node.right, level + 1, result);
+
+      levelOrderTraverseNode(node.left, level + 1);
+      levelOrderTraverseNode(node.right, level + 1);
     }
   };
-  levelOrderNode(root, 0, arr);
+  levelOrderTraverseNode(root);
 
-  return arr;
-
-  // 2. BFS
-  // if (!root) {
-  //   return [];
-  // }
-  // let res = [];
-  // const q = [];
-  // q.push(root);
-
-  // while (q.length) {
-  //   let size = q.length;
-  //   const temp = [];
-
-  //   while (size--) {
-  //     const node = q.shift();
-  //     temp.push(node.val);
-  //     if (node.left) {
-  //       q.push(node.left);
-  //     }
-  //     if (node.right) {
-  //       q.push(node.right);
-  //     }
-  //   }
-  //   res.push(temp);
-  // }
-  // return res;
-};
+  return result;
+}
