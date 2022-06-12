@@ -12,15 +12,34 @@
  * @return {number[]}
  */
 var postorderTraversal = function (root) {
-  const arr = [];
+  // 1. 递归
+  const result = [];
   const postOrderTraversalNode = (node) => {
     if (node) {
       postOrderTraversalNode(node.left);
       postOrderTraversalNode(node.right);
-      arr.push(node.val);
+      result.push(node.val);
     }
   };
   postOrderTraversalNode(root);
 
-  return arr;
+  return result;
+
+  // 2. 迭代
+  // return postOrderTraversalIterate(root);
 };
+
+function postOrderTraversalIterate(root) {
+  const result = [];
+  const stack = [];
+  root && stack.push(root);
+
+  while (stack.length > 0) {
+    const node = stack.pop();
+    result.push(node.val);
+
+    node.left && stack.push(node.left);
+    node.right && stack.push(node.right);
+  }
+  return result.reverse();
+}
