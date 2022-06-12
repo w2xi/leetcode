@@ -13,17 +13,17 @@
  */
 var preorderTraversal = function (root) {
   // 1. 递归
-  const arr = [];
+  const result = [];
   const preOrderTravelsalNode = (node) => {
     if (node) {
-      arr.push(node.val);
+      result.push(node.val);
       preOrderTravelsalNode(node.left);
       preOrderTravelsalNode(node.right);
     }
   };
   preOrderTravelsalNode(root);
 
-  return arr;
+  return result;
 
   // 2. 迭代
   // return preOrderTraversalIterate(root);
@@ -42,6 +42,5 @@ function preOrderTraversalIterate(root){
     node.right && stack.push(node.right);
     node.left && stack.push(node.left);
   }
-
   return result;
 };

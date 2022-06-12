@@ -12,16 +12,40 @@
  * @return {number[]}
  */
 var inorderTraversal = function (root) {
-  const arr = [];
+  // 1. 递归
+  const result = [];
   const inOrderTraverseNode = (node) => {
     if (node) {
       inOrderTraverseNode(node.left);
-      arr.push(node.val);
+      result.push(node.val);
       inOrderTraverseNode(node.right);
     }
   };
 
   inOrderTraverseNode(root);
 
-  return arr;
+  return result;
+
+  // 2. 迭代
+  // return inOrderTraversalIterate(root);
 };
+
+function inOrderTraversalIterate(root) {
+  const result = [];
+  const stack = [];
+  let curr = root;
+
+  while (stack.length > 0 || curr) {
+    while (curr) {
+      stack.push(curr);
+      curr = curr.left;
+    }
+    const node = stack.pop();
+    result.push(node.val);
+
+    if (node.right) {
+      curr = node.right;
+    }
+  }
+  return result;
+}
