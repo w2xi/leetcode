@@ -12,6 +12,7 @@
  * @return {number[][]}
  */
 var levelOrderBottom = function (root) {
+  // BFS
   if (!root) {
     return [];
   }
@@ -35,4 +36,18 @@ var levelOrderBottom = function (root) {
     res.unshift(temp);
   }
   return res;
+
+  // DFS
+  // const result = [];
+  // levelOrderBottonRecursive(root, result);
+  // return result.reverse();
 };
+
+function levelOrderBottonRecursive(root, result = [], level = 0) {
+  if (root) {
+    if (!result[level]) result[level] = [];
+    result[level].push(root.val);
+    levelOrderBottonRecursive(root.left, result, level + 1);
+    levelOrderBottonRecursive(root.right, result, level + 1);
+  }
+}
