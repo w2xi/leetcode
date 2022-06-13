@@ -72,6 +72,7 @@
 |404|[左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)|[JavaScript](./algorithms/sum-of-left-leaves.js)|Easy|
 |429|[N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)|[JavaScript](./algorithms/n-ary-tree-level-order-traversal.js)|Medium|
 |437|[路径总和 III](https://leetcode.cn/problems/path-sum-iii/)|[JavaScript](./algorithms/path-sum-iii.js)|Medium|
+|485|[最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)|[JavaScript](./algorithms/max-consecutive-ones.js)|Easy|
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
