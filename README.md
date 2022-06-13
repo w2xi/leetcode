@@ -70,6 +70,7 @@
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./algorithms/intersection-of-two-arrays-ii.js)|Easy|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[JavaScript](./algorithms/first-unique-character-in-a-string.js)|Easy|
 |404|[左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)|[JavaScript](./algorithms/sum-of-left-leaves.js)|Easy|
+|414|[第三大的数](https://leetcode.cn/problems/third-maximum-number/)|[JavaScript](./algorithms/third-maximum-number.js)|Easy|
 |429|[N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)|[JavaScript](./algorithms/n-ary-tree-level-order-traversal.js)|Medium|
 |437|[路径总和 III](https://leetcode.cn/problems/path-sum-iii/)|[JavaScript](./algorithms/path-sum-iii.js)|Medium|
 |485|[最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)|[JavaScript](./algorithms/max-consecutive-ones.js)|Easy|
