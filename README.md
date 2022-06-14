@@ -46,6 +46,7 @@
 |116|[填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/)|[JavaScript](./algorithms/populating-next-right-pointers-in-each-node.js)|Medium|
 |117|[填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)|[JavaScript](./algorithms/populating-next-right-pointers-in-each-node-ii.js)|Medium|
 |118|[杨辉三角](https://leetcode.cn/problems/pascals-triangle/)|[JavaScript](./algorithms/pascals-triangle.js)|Easy|
+|119|[杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/)|[JavaScript](./algorithms/pascals-triangle-ii.js)|Easy|
 |124|[二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)|[JavaScript](./algorithms/binary-tree-maximum-path-sum.js)|Hard|
 |136|[只出现一次的数字](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithms/single-number.js)|Easy|
 |141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithms/linked-list-cycle.js)|Easy|
