@@ -84,6 +84,7 @@
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
+|598|[范围求和 II](https://leetcode.cn/problems/range-addition-ii/)|[JavaScript](./algorithms/range-addition-ii.js)|Easy|
 |617|[合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)|[JavaScript](./algorithms/merge-two-binary-trees.js)|Easy|
 |628|[三个数的最大乘积](https://leetcode.cn/problems/maximum-product-of-three-numbers/)|[JavaScript](./algorithms/maximum-product-of-three-numbers.js)|Easy|
 |637|[二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/)|[JavaScript](./algorithms/average-of-levels-in-binary-tree.js)|Easy|
