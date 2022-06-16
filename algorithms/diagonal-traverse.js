@@ -11,6 +11,13 @@ var findDiagonalOrder = function (mat) {
   let row = 0;
   let col = 0;
 
+  [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [10,11,12],
+  ];
+
   while (row <= m && col <= n) {
     let tempRow = row;
     let tempCol = Math.min(col, n);
