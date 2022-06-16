@@ -82,6 +82,7 @@
 |448|[找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./algorithms/find-all-numbers-disappeared-in-an-array.js)|Easy|
 |485|[最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)|[JavaScript](./algorithms/max-consecutive-ones.js)|Easy|
 |495|[提莫攻击](https://leetcode.cn/problems/teemo-attacking/)|[JavaScript](./algorithms/teemo-attacking.js)|Easy|
+|498|[对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)|[JavaScript](./algorithms/diagonal-traverse.js)|Medium|
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
