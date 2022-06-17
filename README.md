@@ -69,6 +69,7 @@
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list.js)|Easy|
 |257|[二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/)|[JavaScript](./algorithms/binary-tree-paths.js)|Easy|
 |283|[移动零](https://leetcode.cn/problems/move-zeroes/)|[JavaScript](./algorithms/move-zeroes.js)|Easy|
+|303|[区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)|[JavaScript](./algorithms/range-sum-query-immutable.js)|Easy|
 |328|[奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/)|[JavaScript](./algorithms/odd-even-linked-list.js)|Medium|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[JavaScript](./algorithms/reverse-string.js)|Easy|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
