@@ -89,6 +89,7 @@
 |498|[对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)|[JavaScript](./algorithms/diagonal-traverse.js)|Medium|
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
+|520|[检测大写字母](https://leetcode.cn/problems/detect-capital/)|[JavaScript](./algorithms/detect-capital.js)|Easy|
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
 |566|[重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)|[JavaScript](./algorithms/reshape-the-matrix.js)|Easy|
 |598|[范围求和 II](https://leetcode.cn/problems/range-addition-ii/)|[JavaScript](./algorithms/range-addition-ii.js)|Easy|
