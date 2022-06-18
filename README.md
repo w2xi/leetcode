@@ -101,8 +101,9 @@
 |520|[检测大写字母](https://leetcode.cn/problems/detect-capital/)|[JavaScript](./algorithms/detect-capital.js)|Easy|
 |541|[反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/)|[JavaScript](./algorithms/reverse-string-ii.js)|Easy|
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
-|566|[重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)|[JavaScript](./algorithms/reshape-the-matrix.js)|Easy|
+|551|[学生出勤记录 I](https://leetcode.cn/problems/student-attendance-record-i/)|[JavaScript](./algorithms/student-attendance-record-i.js)|Easy|
 |557|[反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)|[JavaScript](./algorithms/reverse-words-in-a-string-iii.js)|Easy|
+|566|[重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)|[JavaScript](./algorithms/reshape-the-matrix.js)|Easy|
 |598|[范围求和 II](https://leetcode.cn/problems/range-addition-ii/)|[JavaScript](./algorithms/range-addition-ii.js)|Easy|
 |617|[合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)|[JavaScript](./algorithms/merge-two-binary-trees.js)|Easy|
 |628|[三个数的最大乘积](https://leetcode.cn/problems/maximum-product-of-three-numbers/)|[JavaScript](./algorithms/maximum-product-of-three-numbers.js)|Easy|
