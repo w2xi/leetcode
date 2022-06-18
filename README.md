@@ -89,6 +89,7 @@
 |429|[N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)|[JavaScript](./algorithms/n-ary-tree-level-order-traversal.js)|Medium|
 |434|[字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/)|[JavaScript](./algorithms/number-of-segments-in-a-string.js)|Easy|
 |437|[路径总和 III](https://leetcode.cn/problems/path-sum-iii/)|[JavaScript](./algorithms/path-sum-iii.js)|Medium|
+|451|[根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency/)|[JavaScript](./algorithms/sort-characters-by-frequency.js)|Medium|
 |453|[最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/)|[JavaScript](./algorithms/minimum-moves-to-equal-array-elements.js)|Easy|
 |448|[找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./algorithms/find-all-numbers-disappeared-in-an-array.js)|Easy|
 |485|[最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)|[JavaScript](./algorithms/max-consecutive-ones.js)|Easy|
