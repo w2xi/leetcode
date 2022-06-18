@@ -79,6 +79,7 @@
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./algorithms/intersection-of-two-arrays-ii.js)|Easy|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[JavaScript](./algorithms/first-unique-character-in-a-string.js)|Easy|
+|389|[找不同](https://leetcode.cn/problems/find-the-difference/)|[JavaScript](./algorithms/find-the-difference.js)|Easy|
 |396|[旋转函数](https://leetcode.cn/problems/rotate-function/)|[JavaScript](./algorithms/rotate-function.js)|Medium|
 |404|[左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)|[JavaScript](./algorithms/sum-of-left-leaves.js)|Easy|
 |414|[第三大的数](https://leetcode.cn/problems/third-maximum-number/)|[JavaScript](./algorithms/third-maximum-number.js)|Easy|
