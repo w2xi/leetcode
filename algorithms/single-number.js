@@ -1,4 +1,5 @@
-// 方法一：映射
+// 方法一 哈希表
+// 空间复杂度: O(n)
 
 /**
  * @param {number[]} nums
@@ -24,6 +25,7 @@ var singleNumber = function (nums) {
 };
 
 // 方法二：位运算
+// 空间复杂度: O(1)
 
 /**
  * @param {number[]} nums
