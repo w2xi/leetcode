@@ -70,6 +70,7 @@
 |231|[2 的幂](https://leetcode.cn/problems/power-of-two/)|[JavaScript](./algorithms/power-of-two.js)|Easy|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[JavaScript](./algorithms/palindrome-linked-list.js)|Easy|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list.js)|Easy|
+|242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)|[JavaScript](./algorithms/valid-anagram.js)|Easy|
 |257|[二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/)|[JavaScript](./algorithms/binary-tree-paths.js)|Easy|
 |283|[移动零](https://leetcode.cn/problems/move-zeroes/)|[JavaScript](./algorithms/move-zeroes.js)|Easy|
 |303|[区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)|[JavaScript](./algorithms/range-sum-query-immutable.js)|Easy|
