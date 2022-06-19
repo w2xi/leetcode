@@ -12,11 +12,8 @@ var judgeCircle = function (moves) {
   for (let char of moves) {
     o[char] = (o[char] || 0) + 1;
   }
-  if (o["L"] === o["R"] && o["U"] === o["D"]) {
-    return true;
-  } else {
-    return false;
-  }
+
+  return o["L"] === o["R"] && o["U"] === o["D"];
 
   // 思路:
   // 将物体的前后左右移动看成是在 xy 坐标轴上的移动
