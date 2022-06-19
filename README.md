@@ -99,6 +99,7 @@
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
 |520|[检测大写字母](https://leetcode.cn/problems/detect-capital/)|[JavaScript](./algorithms/detect-capital.js)|Easy|
+|535|[TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)|[JavaScript](./algorithms/encode-and-decode-tinyurl.js)|Medium|
 |541|[反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/)|[JavaScript](./algorithms/reverse-string-ii.js)|Easy|
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
 |551|[学生出勤记录 I](https://leetcode.cn/problems/student-attendance-record-i/)|[JavaScript](./algorithms/student-attendance-record-i.js)|Easy|
