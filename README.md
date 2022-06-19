@@ -86,6 +86,7 @@
 |389|[找不同](https://leetcode.cn/problems/find-the-difference/)|[JavaScript](./algorithms/find-the-difference.js)|Easy|
 |396|[旋转函数](https://leetcode.cn/problems/rotate-function/)|[JavaScript](./algorithms/rotate-function.js)|Medium|
 |404|[左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)|[JavaScript](./algorithms/sum-of-left-leaves.js)|Easy|
+|412|[Fizz Buzz](https://leetcode.cn/problems/fizz-buzz/)|[JavaScript](./algorithms/fizz-buzz.js)|Easy|
 |414|[第三大的数](https://leetcode.cn/problems/third-maximum-number/)|[JavaScript](./algorithms/third-maximum-number.js)|Easy|
 |442|[数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/)|[JavaScript](./algorithms/find-all-duplicates-in-an-array.js)|Medium|
 |429|[N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)|[JavaScript](./algorithms/n-ary-tree-level-order-traversal.js)|Medium|
