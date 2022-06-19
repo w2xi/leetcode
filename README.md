@@ -74,6 +74,7 @@
 |242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)|[JavaScript](./algorithms/valid-anagram.js)|Easy|
 |257|[二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/)|[JavaScript](./algorithms/binary-tree-paths.js)|Easy|
 |283|[移动零](https://leetcode.cn/problems/move-zeroes/)|[JavaScript](./algorithms/move-zeroes.js)|Easy|
+|299|[猜数字游戏](https://leetcode.cn/problems/bulls-and-cows/)|[JavaScript](./algorithms/bulls-and-cows.js)|Medium|
 |303|[区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)|[JavaScript](./algorithms/range-sum-query-immutable.js)|Easy|
 |304|[二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/)|[JavaScript](./algorithms/range-sum-query-2d-immutable.js)|Medium|
 |328|[奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/)|[JavaScript](./algorithms/odd-even-linked-list.js)|Medium|
