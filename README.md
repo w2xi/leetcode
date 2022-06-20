@@ -31,6 +31,7 @@
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[JavaScript](./algorithms/length-of-last-word.js)|Easy|
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
+|69|[x 的平方根 ](https://leetcode.cn/problems/sqrtx/)|[JavaScript](./algorithms/sqrtx.js)|Easy|
 |70|[爬楼梯](https://leetcode.cn/problems/climbing-stairs/)|[JavaScript](./algorithms/climbing-stairs.js)|Easy|
 |73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)|[JavaScript](./algorithms/set-matrix-zeroes.js)|Medium|
 |82|[删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list-ii.js)|Medium|
