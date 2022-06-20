@@ -14,4 +14,17 @@ var moveZeroes = function (nums) {
   for (let i = index; i < nums.length; i++) {
     nums[i] = 0;
   }
+
+  // 双指针
+
+  // let slow = 0;
+  // let fast = 0;
+
+  // while (fast < nums.length) {
+  //   if (nums[fast] !== 0) {
+  //     swap(nums, slow, fast);
+  //     slow++;
+  //   }
+  //   fast++;
+  // }
 };
