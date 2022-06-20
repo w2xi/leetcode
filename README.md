@@ -121,6 +121,7 @@
 |700|[二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)|[JavaScript](./algorithms/search-in-a-binary-search-tree.js)|Easy|
 |704|[二分查找](https://leetcode.cn/problems/binary-search/)|[JavaScript](./algorithms/binary-search.js)|Easy|
 |707|[设计链表](https://leetcode.cn/problems/design-linked-list/)|[JavaScript](./algorithms/design-linked-list.js)|Medium|
+|844|[比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)|[JavaScript](./algorithms/backspace-string-compare.js)|Easy|
 |876|[链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)|[JavaScript](./algorithms/middle-of-the-linked-list.js)|Easy|
 |897|[递增顺序搜索树](https://leetcode.cn/problems/increasing-order-search-tree/)|[JavaScript](./algorithms/increasing-order-search-tree.js)|Easy|
 |912|[排序数组](https://leetcode.cn/problems/sort-an-array/)|[JavaScript](./algorithms/sort-an-array.js)|Medium|
