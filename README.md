@@ -82,6 +82,7 @@
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[JavaScript](./algorithms/reverse-string.js)|Easy|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
 |350|[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](./algorithms/intersection-of-two-arrays-ii.js)|Easy|
+|367|[有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)|[JavaScript](./algorithms/valid-perfect-square.js)|Easy|
 |383|[赎金信](https://leetcode.cn/problems/ransom-note/)|[JavaScript](./algorithms/ransom-note.js)|Easy|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[JavaScript](./algorithms/first-unique-character-in-a-string.js)|Easy|
 |389|[找不同](https://leetcode.cn/problems/find-the-difference/)|[JavaScript](./algorithms/find-the-difference.js)|Easy|
