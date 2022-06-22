@@ -23,23 +23,21 @@ var removeElements = function (head, val) {
   }
   return curr;
 
-  // 2. 迭代
+  // 2. 迭代 (dummy node)
 
   // let curr = head;
-  // let prev = null;
+  // let dummyNode = new ListNode(-1);
+  // dummyNode.next = head;
+  // let prev = dummyNode;
 
   // while (curr) {
   //   if (curr.val === val) {
-  //     if (curr === head) {
-  //       head = head.next;
-  //     } else {
-  //       prev.next = curr.next;
-  //     }
+  //     prev.next = curr.next;
   //   } else {
   //     prev = curr;
   //   }
   //   curr = curr.next;
   // }
 
-  // return head;
+  // return dummyNode.next;
 };
