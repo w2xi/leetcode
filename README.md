@@ -118,6 +118,7 @@
 |637|[二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/)|[JavaScript](./algorithms/average-of-levels-in-binary-tree.js)|Easy|
 |645|[错误的集合](https://leetcode.cn/problems/set-mismatch/)|[JavaScript](./algorithms/set-mismatch.js)|Easy|
 |657|[机器人能否返回原点](https://leetcode.cn/problems/robot-return-to-origin/)|[JavaScript](./algorithms/robot-return-to-origin.js)|Easy|
+|682|[棒球比赛](https://leetcode.cn/problems/baseball-game/)|[JavaScript](./algorithms/baseball-game.js)|Easy|
 |687|[最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)|[JavaScript](./algorithms/longest-univalue-path.js)|Medium|
 |700|[二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)|[JavaScript](./algorithms/search-in-a-binary-search-tree.js)|Easy|
 |704|[二分查找](https://leetcode.cn/problems/binary-search/)|[JavaScript](./algorithms/binary-search.js)|Easy|
