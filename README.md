@@ -125,6 +125,7 @@
 |844|[比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)|[JavaScript](./algorithms/backspace-string-compare.js)|Easy|
 |876|[链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)|[JavaScript](./algorithms/middle-of-the-linked-list.js)|Easy|
 |897|[递增顺序搜索树](https://leetcode.cn/problems/increasing-order-search-tree/)|[JavaScript](./algorithms/increasing-order-search-tree.js)|Easy|
+|904|[水果成篮](https://leetcode.cn/problems/fruit-into-baskets/)|[JavaScript](./algorithms/fruit-into-baskets.js)|Medium|
 |912|[排序数组](https://leetcode.cn/problems/sort-an-array/)|[JavaScript](./algorithms/sort-an-array.js)|Medium|
 |965|[单值二叉树](https://leetcode.cn/problems/univalued-binary-tree/)|[JavaScript](./algorithms/univalued-binary-tree.js)|Easy|
 |977|[有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)|[JavaScript](./algorithms/squares-of-a-sorted-array.js)|Easy|
