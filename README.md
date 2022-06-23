@@ -21,6 +21,7 @@
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)|[JavaScript](./algorithms/longest-common-prefix.js)|Easy|
 |20|[有效的括号](https://leetcode.cn/problems/valid-parentheses/)|[JavaScript](./algorithms/valid-parentheses.js)|Easy|
 |21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[JavaScript](./algorithms/merge-two-sorted-lists.js)|Easy|
+|24|[两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/)|[JavaScript](./algorithms/swap-nodes-in-pairs.js)|Medium|
 |26|[删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-array.js)|Easy|
 |27|[移除元素](https://leetcode.cn/problems/remove-element/)|[JavaScript](./algorithms/remove-element.js)|Easy|
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
