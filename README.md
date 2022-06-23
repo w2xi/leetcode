@@ -135,3 +135,4 @@
 |977|[有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)|[JavaScript](./algorithms/squares-of-a-sorted-array.js)|Easy|
 |988|[从叶结点开始的最小字符串](https://leetcode.cn/problems/smallest-string-starting-from-leaf/)|[JavaScript](./algorithms/smallest-string-starting-from-leaf.js)|Medium|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
+|面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
