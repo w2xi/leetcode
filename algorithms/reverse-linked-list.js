@@ -27,16 +27,17 @@ var reverseList = function (head) {
   };
   return reverseNode(head, null);
 
-  // 2. 迭代
+  // 2. 双指针
 
+  // let temp = null; // 保存 curr 的下一个节点
   // let prev = null;
   // let curr = head;
 
   // while (curr) {
-  //   let next = curr.next;
+  //   temp = curr.next;
   //   curr.next = prev;
   //   prev = curr;
-  //   curr = next;
+  //   curr = temp;
   // }
 
   // return prev;
