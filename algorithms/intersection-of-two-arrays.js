@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 
-// 方法一：映射（降低时间复杂度）
+// 方法一：哈希表（降低时间复杂度）
 var intersection = function (nums1, nums2) {
   const result = [];
   const nums2Obj = {};
