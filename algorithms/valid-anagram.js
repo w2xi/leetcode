@@ -4,7 +4,7 @@
  * @return {boolean}
  */
 var isAnagram = function (s, t) {
-  // 数组哈希计数
+  // 方法一: 数组哈希计数
   const countArr = Array(26).fill(0);
 
   if (s.length !== t.length) {
@@ -25,4 +25,9 @@ var isAnagram = function (s, t) {
   }
 
   return true;
+};
+
+// 方法二: 排序后比较
+var isAnagram2 = function(s, t) {
+  return s.length === t.length && s.split('').sort().join('') === t.split('').sort().join('');
 };
