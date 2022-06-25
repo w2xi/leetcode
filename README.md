@@ -139,3 +139,4 @@
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
+|[剑指 Offer 05|剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|[JavaScript](./algorithms/ti-huan-kong-ge-lcof.js)||Easy|
