@@ -74,7 +74,8 @@
 |203|[移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)|[JavaScript](./algorithms/remove-linked-list-elements.js)|Easy|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[JavaScript](./algorithms/reverse-linked-list.js)|Easy|
 |209|[长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)|[JavaScript](./algorithms/minimum-size-subarray-sum.js)|Medium|
-|222|[完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/)|[](JavaScript)|Medium|
+|222|[完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/)|[JavaScript](./algorithms/count-complete-tree-nodes.js)|Medium|
+|225|[用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/)|[JavaScript](./algorithms/implement-stack-using-queues.js)|Easy|
 |226|[翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|[JavaScript](./algorithms/invert-binary-tree.js)|Easy|
 |231|[2 的幂](https://leetcode.cn/problems/power-of-two/)|[JavaScript](./algorithms/power-of-two.js)|Easy|
 |232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)|[JavaScript](./algorithms/implement-queue-using-stacks.js)|Easy|
