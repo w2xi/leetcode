@@ -77,6 +77,7 @@
 |222|[完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/)|[](JavaScript)|Medium|
 |226|[翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)|[JavaScript](./algorithms/invert-binary-tree.js)|Easy|
 |231|[2 的幂](https://leetcode.cn/problems/power-of-two/)|[JavaScript](./algorithms/power-of-two.js)|Easy|
+|232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)|[JavaScript](./algorithms/implement-queue-using-stacks.js)|Easy|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[JavaScript](./algorithms/palindrome-linked-list.js)|Easy|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list.js)|Easy|
 |242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)|[JavaScript](./algorithms/valid-anagram.js)|Easy|
