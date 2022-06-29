@@ -65,6 +65,7 @@
 |144|[二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)|[JavaScript](./algorithms/binary-tree-preorder-traversal.js)|Easy|
 |145|[二叉树的后序遍历](https://leetcode.cn/problems/binary-tree-postorder-traversal/)|[JavaScript](./algorithms/binary-tree-postorder-traversal.js)|Easy|
 |147|[对链表进行插入排序](https://leetcode.cn/problems/insertion-sort-list/)|[JavaScript](./algorithms/insertion-sort-list.js)|Medium|
+|150|[逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)|[JavaScript](./algorithms/evaluate-reverse-polish-notation.js)|Medium|
 |151|[颠倒字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)|[JavaScript](./algorithms/reverse-words-in-a-string.js)|Medium|
 |155|[最小栈](https://leetcode.cn/problems/min-stack/)|[JavaScript](./algorithms/min-stack.js)|Easy|
 |160|[相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)|[JavaScript](./algorithms/intersection-of-two-linked-lists.js)|Easy|
