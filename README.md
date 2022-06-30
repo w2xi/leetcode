@@ -114,6 +114,7 @@
 |498|[对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)|[JavaScript](./algorithms/diagonal-traverse.js)|Medium|
 |506|[相对名次](https://leetcode.cn/problems/relative-ranks/)|[JavaScript](./algorithms/relative-ranks.js)|Easy|
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
+|513|[找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)|[JavaScript](./algorithms/find-bottom-left-tree-value.js)|Medium|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
 |520|[检测大写字母](https://leetcode.cn/problems/detect-capital/)|[JavaScript](./algorithms/detect-capital.js)|Easy|
 |535|[TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)|[JavaScript](./algorithms/encode-and-decode-tinyurl.js)|Medium|
