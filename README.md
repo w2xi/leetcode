@@ -129,6 +129,7 @@
 |628|[三个数的最大乘积](https://leetcode.cn/problems/maximum-product-of-three-numbers/)|[JavaScript](./algorithms/maximum-product-of-three-numbers.js)|Easy|
 |637|[二叉树的层平均值](https://leetcode.cn/problems/average-of-levels-in-binary-tree/)|[JavaScript](./algorithms/average-of-levels-in-binary-tree.js)|Easy|
 |645|[错误的集合](https://leetcode.cn/problems/set-mismatch/)|[JavaScript](./algorithms/set-mismatch.js)|Easy|
+|654|[最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/)|[JavaScript](./algorithms/maximum-binary-tree.js)|Medium|
 |657|[机器人能否返回原点](https://leetcode.cn/problems/robot-return-to-origin/)|[JavaScript](./algorithms/robot-return-to-origin.js)|Easy|
 |682|[棒球比赛](https://leetcode.cn/problems/baseball-game/)|[JavaScript](./algorithms/baseball-game.js)|Easy|
 |687|[最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)|[JavaScript](./algorithms/longest-univalue-path.js)|Medium|
