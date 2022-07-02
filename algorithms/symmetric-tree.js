@@ -37,6 +37,9 @@ var isSymmetric = function (root) {
 
   // 2. 层序遍历 存储每层的数据，然后比较
   // return levelOrderTraverse(root);
+
+  // 3. bfs
+  // return bfs(root);
 };
 
 var levelOrderTraverse = function (root) {
@@ -65,5 +68,35 @@ var levelOrderTraverse = function (root) {
       right--;
     }
   }
+  return true;
+};
+
+var bfs = function (root) {
+  const queue = [];
+  queue.push(root.left);
+  queue.push(root.right);
+
+  while (queue.length) {
+    const leftNode = queue.shift();
+    const rightNode = queue.shift();
+
+    if (!leftNode && !rightNode) {
+      // 左右节点都为空
+      continue;
+    }
+    if (!leftNode || !rightNode) {
+      // 左右节点有一个为空
+      return false;
+    }
+    if (leftNode.val !== rightNode.val) {
+      // 左右节点值不相等
+      return false;
+    }
+    queue.push(leftNode.left); // 左节点左孩子 入队列
+    queue.push(rightNode.right); // 右节点右孩子 入队列
+    queue.push(leftNode.right); // 左节点右孩子 入队列
+    queue.push(rightNode.left); // 右节点左孩子 入队列
+  }
+
   return true;
 };
