@@ -32,7 +32,7 @@ var postorder = function (root) {
 };
 
 // 后序遍历 左右中
-// 先序遍历(中左右) -> 中右左(调整代码顺序) -> 左右中(反转结果)
+// 先序遍历(中左右) -> 中右左(调整代码入栈顺序) -> 左右中(反转结果)
 
 function bfs(root) {
   if (!root) return [];
