@@ -117,6 +117,7 @@
 |513|[找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)|[JavaScript](./algorithms/find-bottom-left-tree-value.js)|Medium|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
 |520|[检测大写字母](https://leetcode.cn/problems/detect-capital/)|[JavaScript](./algorithms/detect-capital.js)|Easy|
+|530|[二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/)|[JavaScript](./algorithms/minimum-absolute-difference-in-bst.js)|Easy|
 |535|[TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)|[JavaScript](./algorithms/encode-and-decode-tinyurl.js)|Medium|
 |539|[最小时间差](https://leetcode.cn/problems/minimum-time-difference/)|[JavaScript](./algorithms/minimum-time-difference.js)|Medium|
 |541|[反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/)|[JavaScript](./algorithms/reverse-string-ii.js)|Easy|
