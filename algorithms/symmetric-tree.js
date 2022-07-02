@@ -26,7 +26,11 @@ var isSymmetric = function (root) {
       return false;
     }
 
-    return dfs(root1.left, root2.right) && dfs(root1.right, root2.left);
+    const outside = dfs(root1.left, root2.right); // 外侧 比较
+    const inside = dfs(root1.right, root2.left);  // 内侧 比较
+    const isSame = outside && inside;
+
+    return isSame;
   };
 
   return dfs(root.left, root.right);
