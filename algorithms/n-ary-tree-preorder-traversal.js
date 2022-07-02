@@ -26,4 +26,27 @@ var preorder = function (root) {
   dfs(root);
 
   return result;
+
+  // BFS
+  // return bfs(root);
 };
+
+// BFS
+function bfs(root) {
+  const result = [];
+  const stack = [];
+  stack.push(root);
+
+  if (!root) return [];
+
+  while (stack.length) {
+    const node = stack.pop();
+    const children = node.children;
+    result.push(node.val);
+    for (let i = children.length - 1; i >= 0; i--) {
+      stack.push(children[i]);
+    }
+  }
+
+  return result;
+}
