@@ -126,6 +126,7 @@
 |551|[学生出勤记录 I](https://leetcode.cn/problems/student-attendance-record-i/)|[JavaScript](./algorithms/student-attendance-record-i.js)|Easy|
 |557|[反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)|[JavaScript](./algorithms/reverse-words-in-a-string-iii.js)|Easy|
 |566|[重塑矩阵](https://leetcode.cn/problems/reshape-the-matrix/)|[JavaScript](./algorithms/reshape-the-matrix.js)|Easy|
+|572|[另一棵树的子树](https://leetcode.cn/problems/subtree-of-another-tree/)|[JavaScript](./algorithms/subtree-of-another-tree.js)|Easy|
 |589|[N 叉树的前序遍历](https://leetcode.cn/problems/n-ary-tree-preorder-traversal/)|[JavaScript](./algorithms/n-ary-tree-preorder-traversal.js)|Easy|
 |590|[N 叉树的后序遍历](https://leetcode.cn/problems/n-ary-tree-postorder-traversal/)|[JavaScript](./algorithms/n-ary-tree-postorder-traversal.js)|Easy|
 |598|[范围求和 II](https://leetcode.cn/problems/range-addition-ii/)|[JavaScript](./algorithms/range-addition-ii.js)|Easy|
