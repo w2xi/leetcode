@@ -12,6 +12,7 @@
  * @return {TreeNode}
  */
 var searchBST = function (root, val) {
+  // 递归
   if (!root) {
     return null;
   }
@@ -22,4 +23,19 @@ var searchBST = function (root, val) {
   } else {
     return root;
   }
+
+  // 迭代
+  // return helper(root, val);
 };
+function helper(root, val) {
+  while (root) {
+    if (val > root.val) {
+      root = root.right;
+    } else if (val < root.val) {
+      root = root.left;
+    } else {
+      return root;
+    }
+  }
+  return null;
+}
