@@ -20,11 +20,11 @@ var pathSum = function (root, targetSum) {
     if (node) {
       arr.push(node.val);
       if (!node.left && !node.right && node.val === sum) {
-        result.push([...arr]);
+        result.push([...arr]); // 这里要浅拷贝
       }
       dfs(node.left, sum - node.val);
       dfs(node.right, sum - node.val);
-      arr.pop();
+      arr.pop();               // 回溯
     }
   };
   
