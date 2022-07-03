@@ -27,4 +27,18 @@ var maxDepth = function (root) {
   }
 
   return depth;
+
+  // 递归
+  // return dfs(root);
 };
+
+function dfs(root) {
+  if (!root) return 0;
+  let depth = 0;
+  root.children.forEach((child) => {
+    const childHeight = dfs(child);
+    depth = Math.max(depth, childHeight);
+  });
+
+  return depth + 1;
+}
