@@ -12,6 +12,7 @@
  * @return {number}
  */
 var minDepth = function (root) {
+  // DFS
   if (!root) return 0;
   // 叶子节点 深度为 1
   if (!root.left && !root.right) return 1;
@@ -21,4 +22,30 @@ var minDepth = function (root) {
   if (!root.right) return minDepth(root.left) + 1;
   // 左右都不空，返回左右子树深度较小值 + 1
   return Math.min(minDepth(root.left), minDepth(root.right)) + 1;
+
+  // BFS
+  // return bfs(root);
 };
+
+function bfs(root) {
+  if (!root) return 0;
+  const queue = [root];
+  let depth = 0;
+
+  while (queue.length) {
+    let size = queue.length;
+    // 记录当前深度
+    depth++;
+    while (size--) {
+      const node = queue.shift();
+      node.left && queue.push(node.left);
+      node.right && queue.push(node.right);
+      // 叶子节点
+      if (!node.left && !node.right) {
+        return depth;
+      }
+    }
+  }
+
+  return minDepth;
+}
