@@ -40,8 +40,8 @@ function bfs(root) {
       const node = queue.shift();
       node.left && queue.push(node.left);
       node.right && queue.push(node.right);
-      // 叶子节点
-      if (!node.left && !node.right) {
+
+      if (!node.left && !node.right) { // 叶子节点 已经是最低的一层了
         return depth;
       }
     }
