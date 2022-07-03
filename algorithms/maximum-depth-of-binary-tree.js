@@ -13,12 +13,35 @@
  * @return {number}
  */
 var maxDepth = function (root) {
-  if (root) {
-    const leftHeihgt = maxDepth(root.left);
-    const rightHeight = maxDepth(root.right);
-    const maxHeight = Math.max(leftHeihgt, rightHeight);
-    return maxHeight + 1;
-  } else {
-    return 0;
-  }
+  // 1. 递归
+  if (!root) return 0;
+
+  const leftHeihgt = maxDepth(root.left);
+  const rightHeight = maxDepth(root.right);
+  const maxHeight = Math.max(leftHeihgt, rightHeight);
+
+  return maxHeight + 1;
+
+  // 2. BFS
+  // return levelOrder(root);
 };
+
+// 层序遍历获取最大深度
+function levelOrder(root) {
+  if (!root) return 0;
+  let depth = 0;
+  const queue = [];
+  queue.push(root);
+
+  while (queue.length) {
+    let size = queue.length;
+    depth++;
+    while (size--) {
+      const node = queue.shift();
+      node.left && queue.push(node.left);
+      node.right && queue.push(node.right);
+    }
+  }
+
+  return depth;
+}
