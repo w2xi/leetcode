@@ -15,9 +15,9 @@
 var hasPathSum = function (root, targetSum) {
   // DFS (简洁清晰)
   if (!root) return false;
-
-  if (!root.left && !root.right) {
-    return targetSum - root.val === 0;
+  // leaf node
+  if (!root.left && !root.right && targetSum === root.val) {
+    return true;
   }
   return (
     hasPathSum(root.left, targetSum - root.val) ||
@@ -25,28 +25,30 @@ var hasPathSum = function (root, targetSum) {
   );
 
   // 自己开始想出来的 但是略显冗余 还使用了额外的空间
-
-  // if (!root) return false;
-  // const stack = [];
-  // let flag = false;
-
-  // const preOrder = (node) => {
-  //   if (node) {
-  //     stack.push(node.val);
-  //     if (!node.left && !node.right) {
-  //       const sum = stack.reduce((a, b) => a + b);
-  //       if (sum === targetSum) {
-  //         flag = true;
-  //       }
-  //     }
-  //     if (!flag) {
-  //       preOrder(node.left);
-  //       preOrder(node.right);
-  //     }
-  //     stack.pop();
-  //   }
-  // };
-  // preOrder(root);
-
-  // return flag;
+  // return hasPathSum2(root, targetSum);
 };
+
+function hasPathSum2(root, targetSum) {
+  if (!root) return false;
+  const stack = [];
+  let flag = false;
+  const preOrder = (node) => {
+    if (node) {
+      stack.push(node.val);
+      // leaf node
+      if (!node.left && !node.right && targetSum === sum(stack)) {
+        flag = true;
+      }
+      if (!flag) { // 剪枝
+        preOrder(node.left);
+        preOrder(node.right);
+      }
+      stack.pop(); // 回溯
+    }
+  };
+  preOrder(root);
+  return flag;
+}
+function sum(arr) {
+  return arr.reduce((a, b) => a + b);
+}
