@@ -49,6 +49,7 @@
 |102|[二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-level-order-traversal.js)|Easy|
 |103|[二叉树的锯齿形层序遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)|[JavaScript](./algorithms/binary-tree-zigzag-level-order-traversal.js)|Medium|
 |104|[二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)|[JavaScript](./algorithms/maximum-depth-of-binary-tree.js)|Easy|
+|106|[从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[JavaScript](./algorithms/construct-binary-tree-from-inorder-and-postorder-traversal.js)|Medium|
 |107|[二叉树的层序遍历 II](https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/)|[JavaScript](./algorithms/binary-tree-level-order-traversal-ii.js)|Medium|
 |110|[平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)|[JavaScript](./algorithms/balanced-binary-tree.js)|Easy|
 |111|[二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)|[JavaScript](./algorithms/minimum-depth-of-binary-tree.js)|Easy|
