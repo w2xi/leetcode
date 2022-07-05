@@ -123,6 +123,7 @@
 |520|[检测大写字母](https://leetcode.cn/problems/detect-capital/)|[JavaScript](./algorithms/detect-capital.js)|Easy|
 |530|[二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/)|[JavaScript](./algorithms/minimum-absolute-difference-in-bst.js)|Easy|
 |535|[TinyURL 的加密与解密](https://leetcode.cn/problems/encode-and-decode-tinyurl/)|[JavaScript](./algorithms/encode-and-decode-tinyurl.js)|Medium|
+|538|[把二叉搜索树转换为累加树](https://leetcode.cn/problems/convert-bst-to-greater-tree/)|[JavaScript](./algorithms/convert-bst-to-greater-tree.js)|Medium|
 |539|[最小时间差](https://leetcode.cn/problems/minimum-time-difference/)|[JavaScript](./algorithms/minimum-time-difference.js)|Medium|
 |541|[反转字符串 II](https://leetcode.cn/problems/reverse-string-ii/)|[JavaScript](./algorithms/reverse-string-ii.js)|Easy|
 |543|[二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)|[JavaScript](./algorithms/diameter-of-binary-tree.js)|Easy|
