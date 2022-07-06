@@ -109,6 +109,7 @@
 |434|[字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/)|[JavaScript](./algorithms/number-of-segments-in-a-string.js)|Easy|
 |437|[路径总和 III](https://leetcode.cn/problems/path-sum-iii/)|[JavaScript](./algorithms/path-sum-iii.js)|Medium|
 |448|[找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./algorithms/find-all-numbers-disappeared-in-an-array.js)|Easy|
+|450|[删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/)|[JavaScript](./algorithms/delete-node-in-a-bst.js)|Medium|
 |451|[根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency/)|[JavaScript](./algorithms/sort-characters-by-frequency.js)|Medium|
 |453|[最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/)|[JavaScript](./algorithms/minimum-moves-to-equal-array-elements.js)|Easy|
 |454|[四数相加 II](https://leetcode.cn/problems/4sum-ii/)|[JavaScript](./algorithms/4sum-ii.js)|Medium|
