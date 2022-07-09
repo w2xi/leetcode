@@ -86,6 +86,7 @@
 |232|[用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)|[JavaScript](./algorithms/implement-queue-using-stacks.js)|Easy|
 |234|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[JavaScript](./algorithms/palindrome-linked-list.js)|Easy|
 |235|[二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JavaScript](./algorithms/lowest-common-ancestor-of-a-binary-search-tree.js)|Easy|
+|236|[二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)|[JavaScript](./algorithms/lowest-common-ancestor-of-a-binary-tree.js)|Medium|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./algorithms/delete-node-in-a-linked-list.js)|Easy|
 |242|[有效的字母异位词](https://leetcode.cn/problems/valid-anagram/)|[JavaScript](./algorithms/valid-anagram.js)|Easy|
 |257|[二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/)|[JavaScript](./algorithms/binary-tree-paths.js)|Easy|
