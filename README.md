@@ -57,6 +57,7 @@
 |111|[二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)|[JavaScript](./algorithms/minimum-depth-of-binary-tree.js)|Easy|
 |112|[路径总和](https://leetcode.cn/problems/path-sum/)|[JavaScript](./algorithms/path-sum.js)|Easy|
 |113|[路径总和 II](https://leetcode.cn/problems/path-sum-ii/)|[JavaScript](./algorithms/path-sum-ii.js)|Medium|
+|114|[二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/)|[JavaScript](./algorithms/flatten-binary-tree-to-linked-list.js)|Medium|
 |116|[填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/)|[JavaScript](./algorithms/populating-next-right-pointers-in-each-node.js)|Medium|
 |117|[填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)|[JavaScript](./algorithms/populating-next-right-pointers-in-each-node-ii.js)|Medium|
 |118|[杨辉三角](https://leetcode.cn/problems/pascals-triangle/)|[JavaScript](./algorithms/pascals-triangle.js)|Easy|
