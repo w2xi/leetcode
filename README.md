@@ -74,6 +74,7 @@
 |151|[颠倒字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)|[JavaScript](./algorithms/reverse-words-in-a-string.js)|Medium|
 |155|[最小栈](https://leetcode.cn/problems/min-stack/)|[JavaScript](./algorithms/min-stack.js)|Easy|
 |160|[相交链表](https://leetcode.cn/problems/intersection-of-two-linked-lists/)|[JavaScript](./algorithms/intersection-of-two-linked-lists.js)|Easy|
+|173|[二叉搜索树迭代器](https://leetcode.cn/problems/binary-search-tree-iterator/)|[JavaScript](./algorithms/binary-search-tree-iterator.js)|Medium|
 |189|[轮转数组](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithms/rotate-array.js)|Medium|
 |199|[二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/)|[JavaScript](./algorithms/binary-tree-right-side-view.js)|Medium|
 |202|[快乐数](https://leetcode.cn/problems/happy-number/)|[JavaScript](./algorithms/happy-number.js)|Easy|
