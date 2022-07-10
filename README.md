@@ -149,6 +149,7 @@
 |669|[修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)|[JavaScript](./algorithms/trim-a-binary-search-tree.js)|Medium|
 |682|[棒球比赛](https://leetcode.cn/problems/baseball-game/)|[JavaScript](./algorithms/baseball-game.js)|Easy|
 |687|[最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)|[JavaScript](./algorithms/longest-univalue-path.js)|Medium|
+|690|[员工的重要性](https://leetcode.cn/problems/employee-importance/)|[JavaScript](./algorithms/employee-importance.js)|Medium|
 |700|[二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)|[JavaScript](./algorithms/search-in-a-binary-search-tree.js)|Easy|
 |701|[二叉搜索树中的插入操作](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)|[JavaScript](./algorithms/insert-into-a-binary-search-tree.js)|Medium|
 |704|[二分查找](https://leetcode.cn/problems/binary-search/)|[JavaScript](./algorithms/binary-search.js)|Easy|
