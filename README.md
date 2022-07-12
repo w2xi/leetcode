@@ -39,6 +39,7 @@
 |70|[爬楼梯](https://leetcode.cn/problems/climbing-stairs/)|[JavaScript](./algorithms/climbing-stairs.js)|Easy|
 |71|[简化路径](https://leetcode.cn/problems/simplify-path/)|[JavaScript](./algorithms/simplify-path.js)|Medium|
 |73|[矩阵置零](https://leetcode.cn/problems/set-matrix-zeroes/)|[JavaScript](./algorithms/set-matrix-zeroes.js)|Medium|
+|77|[组合](https://leetcode.cn/problems/combinations/)|[JavaScript](./algorithms/combinations.js)|Medium|
 |82|[删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list-ii.js)|Medium|
 |83|[删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list.js)|Easy|
 |88|[合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array.js)|Easy|
