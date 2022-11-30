@@ -1,16 +1,17 @@
 /**
- * 移除元素
  * @param {number[]} nums
  * @param {number} val
  * @return {number}
  */
-var removeElement = function (nums, val) {
-  let count = 0;
-  for (let i = 0; i < nums.length; i++) {
-    if (nums[i] !== val) {
-      nums[count] = nums[i];
-      count++;
-    }
+ var removeElement = function(nums, val) {
+  // 双指针 (快慢指针)
+  let slowIndex = 0;
+
+  for (let fastIndex = 0; fastIndex < nums.length; fastIndex++) {
+      if (val !== nums[fastIndex]) {
+          nums[slowIndex++] = nums[fastIndex];
+      }
   }
-  return count;
+
+  return slowIndex;
 };
