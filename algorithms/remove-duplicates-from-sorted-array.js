@@ -4,20 +4,19 @@
  * @return {number}
  */
 var removeDuplicates = function (nums) {
-  // 双指针
-  if (nums.length === 0) {
-    return 0;
-  }
-  let slow = 1;
-  let fast = 1;
-  
-  while (fast < nums.length) {
-    if (nums[fast] !== nums[fast - 1]) {
-      nums[slow] = nums[fast];
-      slow++;
-    }
-    fast++;
+  // 双指针 (快慢指针)
+
+  if (nums.length <= 1) {
+    return nums.length;
   }
 
-  return slow;
+  let slowIndex = 1;
+
+  for (let fastIndex = 1; fastIndex < nums.length; fastIndex++) {
+    if (nums[fastIndex - 1] !== nums[fastIndex]) {
+      nums[slowIndex++] = nums[fastIndex];
+    }
+  }
+
+  return slowIndex;
 };
