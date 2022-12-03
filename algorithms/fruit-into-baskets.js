@@ -1,4 +1,5 @@
 /**
+ * 904. 水果成篮
  * @param {number[]} fruits
  * @return {number}
  */
@@ -11,6 +12,7 @@ var totalFruit = function (fruits) {
 
   for (let right = 0; right < fruits.length; right++) {
     const curr = fruits[right];
+    // 存储每个水果种类出现的次数
     map.set(curr, (map.get(curr) || 0) + 1);
 
     while (map.size > 2) {
@@ -22,6 +24,7 @@ var totalFruit = function (fruits) {
       }
       left++;
     }
+    // 更新最大数目
     maxLen = Math.max(maxLen, right - left + 1);
   }
 
