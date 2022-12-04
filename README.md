@@ -32,6 +32,7 @@
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Easy|
 |48|[旋转图像](https://leetcode.cn/problems/rotate-image/)|[JavaScript](./algorithms/rotate-image.js)|Medium|
 |49|[字母异位词分组](https://leetcode.cn/problems/group-anagrams/)|[JavaScript](./algorithms/group-anagrams.js)|Medium|
+|54|[螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|[JavaScript](./algorithms/spiral-matrix.js)|Medium|
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[JavaScript](./algorithms/length-of-last-word.js)|Easy|
 |59|[螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)|[JavaScript](./algorithms/spiral-matrix-ii.js)|Medium|
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
