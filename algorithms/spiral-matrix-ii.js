@@ -1,51 +1,31 @@
 /**
  * 59. 螺旋矩阵 II
+ * 参考: https://leetcode.cn/problems/spiral-matrix-ii/solution/spiral-matrix-ii-mo-ni-fa-she-ding-bian-jie-qing-x/
  * @param {number} n
  * @return {number[][]}
  */
- var generateMatrix = function(n) {
-  // 矩阵的行列索引
-  let i, j;
-  // 起始位置
-  let startX = 0, startY = 0;
-  // 旋转圈数
-  let loop = n >> 1;
-  // 中间位置
-  let mid = loop;
-  // 控制每一条边遍历的长度，每次循环右边界收缩一位
-  let offset = 1;
-  // 填充矩阵的值
-  let count = 1;
-  // 结果矩阵
-  let nums = Array.from({ length: n }, () => []);
+var generateMatrix = function (n) {
+  let cur = 1;
+  let top = 0;
+  let bottom = n - 1;
+  let left = 0;
+  let right = n - 1;
+  const tar = n * n;
 
-  while (loop--) {
-      // 上行从左到右（左闭右开）
-      for (j = startX; j < n - offset; j++) {
-          nums[startX][j] = count++;
-      }
-      // 右列从上到下（左闭右开）
-      for (i = startY; i < n - offset; i++) {
-          nums[i][j] = count++;
-      }
-      // 下行从右到左（左闭右开）
-      for (; j > startY; j--) {
-          nums[i][j] = count++;
-      }
-      // 左列从下到上（左闭右开）
-      for (; i > startX; i--) {
-          nums[i][j] = count++;
-      }
-      // 更新起始位置
-      startX++;
-      startY++;
-      // offset 控制每一圈里每一条边遍历的长度
-      offset++;
-  }
-  // n 为奇数, 处理中间的值
-  if (n % 2 === 1) {
-      nums[mid][mid] = count;
+  const mat = Array(n)
+    .fill(0)
+    .map(() => Array(n).fill(0));
+
+  while (cur <= tar) {
+    for (let i = left; i <= right; i++) mat[top][i] = cur++;
+    top++;
+    for (let i = top; i <= bottom; i++) mat[i][right] = cur++;
+    right--;
+    for (let i = right; i >= left; i--) mat[bottom][i] = cur++;
+    bottom--;
+    for (let i = bottom; i >= top; i--) mat[i][left] = cur++;
+    left++;
   }
 
-  return nums;
+  return mat;
 };
