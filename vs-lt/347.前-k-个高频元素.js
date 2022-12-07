@@ -18,7 +18,8 @@ var topKFrequent = function(nums, k) {
     map.set(curr, (map.get(curr) || 0) + 1);
   }
 
-  // 优先队列 (小顶堆)
+  // 优先队列 (小根堆)
+  // 时间复杂度: nlogk
   const heap = new MinHeap();
 
   for (const item of map.entries()) {

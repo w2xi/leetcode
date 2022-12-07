@@ -18,64 +18,10 @@ var topKFrequent = function (nums, k) {
 
   // 方法二: 优先队列 (堆)
   // 时间复杂度: O(n log k)
-  const temp = Array.from(map);
-  buildMinHeap(temp);
-
-  while (temp.length > k) {
-    swap(temp, 0, temp.length - 1);
-    temp.pop();
-    heapify(temp, 0, temp.length);
-  }
-
-  return temp.map((item) => item[0]);
-};
-
-function buildMinHeap(array) {
-  const size = array.length;
-  for (let i = size >> 1; i >= 0; i--) {
-    heapify(array, i, size);
-  }
-}
-
-// 堆化 (下移)
-function heapify(array, index, heapSize) {
-  const left = 2 * index + 1;
-  const right = 2 * index + 2;
-  let largest = index;
-
-  if (left < heapSize && array[left][1] < array[largest][1]) {
-    largest = left;
-  }
-  if (right < heapSize && array[right][1] < array[largest][1]) {
-    largest = right;
-  }
-  if (largest !== index) {
-    swap(array, index, largest);
-    heapify(array, largest, heapSize);
-  }
-}
-
-function swap(array, i, j) {
-  const temp = array[i];
-  array[i] = array[j];
-  array[j] = temp;
-}
-
-
-function solution(nums, k) {
-  const map = new Map();
-
-  for (let i = 0; i < nums.length; i++) {
-    const curr = nums[i];
-    map.set(curr, (map.get(curr) || 0) + 1);
-  }
-
-  // 小顶堆
-  const heap = new PrioQueue((a, b) => a[1] - b[1]);
+  const heap = new MinHeap();
 
   for (const item of map.entries()) {
     heap.push(item);
-
     if (heap.size() > k) {
       heap.pop();
     }
@@ -89,7 +35,8 @@ function solution(nums, k) {
   }
 
   return result;
-}
+
+};
 
 /**
  * 优先队列 - 堆
@@ -97,51 +44,71 @@ function solution(nums, k) {
  *  - push: 向队尾添加元素
  *  - pop:  从队头取出元素
  */
-class PrioQueue {
-  constructor(compareFn) {
-    this.compareFn = compareFn;
+class MinHeap {
+  constructor() {
     this.queue = [];
   }
 
   push(item) {
     if (item) {
       this.queue.push(item);
-      // 执行上移操作
-      this.shiftUp(this.size() - 1);
+      // 上移
+      this.siftUp(this.size() - 1);
     }
   }
 
   pop() {
     if (this.size() === 0) {
-      return undefined;
+      return;
     }
     if (this.size() === 1) {
       return this.queue.pop();
     }
-    // 被移除值(堆顶)
-    const removedValue = this.queue[0];
-    // 弹出队列尾部的元素, 放到队头
+    const removedItem = this.queue[0];
     this.queue[0] = this.queue.pop();
-    // 执行上移操作
-    this.shiftUp(0);
+    // 下沉
+    this.siftDown(0);
 
-    return removedValue;
+    return removedItem;
   }
 
-  // 上移操作
-  shiftUp(index) {
-    const parentIndex = index === 0 ? null : (index - 1) >> 1;
-    const parentValue = this.queue[parentIndex];
-    const currValue = this.queue[index];
+  // 上移
+  siftUp(index) {
+    const parent = index === 0 ? null : (index - 1) >> 1;
 
-    if (index > 0 && this.compareFn(currValue, parentValue) < 0) {
-      swap(this.queue, index, parentIndex);
-      // 继续执行上移操作
-      this.shiftUp(parentIndex);
+    if (index > 0 && this.queue[index][1] < this.queue[parent][1]) {
+      swap(this.queue, index, parent);
+      this.siftUp(parent);
+    }
+  }
+
+  // 下沉
+  siftDown(index) {
+    const left = index * 2 + 1;
+    const right = index * 2 + 2;
+    const size = this.size();
+    let last = index;
+
+    if (left < size && this.queue[left][1] < this.queue[last][1]) {
+      last = left;
+    }
+    if (right < size && this.queue[right][1] < this.queue[last][1]) {
+      last = right;
+    }
+
+    if (last !== index) {
+      swap(this.queue, index, last);
+      this.siftDown(last);
     }
   }
 
   size() {
     return this.queue.length;
   }
+}
+
+function swap(arr, i, j) {
+  const temp = arr[i];
+  arr[i] = arr[j];
+  arr[j] = temp;
 }
