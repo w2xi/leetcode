@@ -3,8 +3,6 @@
  * @return {boolean}
  */
 var isHappy = function (n) {
-  // 用哈希集合检测循环
-
   // 获取下一个数
   const getNext = (num) => {
     let sum = 0;
@@ -15,7 +13,10 @@ var isHappy = function (n) {
     }
     return sum;
   };
+
+  // 用哈希集合检测循环
   const set = new Set();
+
   while (n !== 1 && !set.has(n)) {
     set.add(n);
     n = getNext(n);
