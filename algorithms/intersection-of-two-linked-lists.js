@@ -13,6 +13,9 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function (headA, headB) {
+  // 思路: 让 headA 和 headB 从同一起点出来, 开始移动, 结果 相交或不相交
+  // 这种方式更好理解
+
   if (!headA || !headB) {
     return null;
   }
