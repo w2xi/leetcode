@@ -171,6 +171,7 @@
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
+|1780|[判断一个数字是否可以表示成三的幂的和](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/)|[JavaScript](./algorithms/check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
 |剑指 Offer 05. 替换空格|[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|[JavaScript](./algorithms/ti-huan-kong-ge-lcof.js)|Easy|
