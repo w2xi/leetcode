@@ -13,7 +13,6 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function (headA, headB) {
-  // reference: https://programmercarl.com/%E9%9D%A2%E8%AF%95%E9%A2%9802.07.%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.html#javascript
   if (!headA || !headB) {
     return null;
   }
