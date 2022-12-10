@@ -15,7 +15,6 @@ var evalRPN = function (tokens) {
 			stack.push(result);
 		}
 	}
-	console.log(stack);
 
 	return stack[0];
 };
