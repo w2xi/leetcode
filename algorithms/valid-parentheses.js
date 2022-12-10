@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isValid = function (s) {
-  // 2. 栈
+  // 1. 栈
   if (s.length % 2 !== 0) {
     return false;
   }
@@ -22,7 +22,7 @@ var isValid = function (s) {
   }
   return stack.length === 0;
 
-  // 1. 暴力解题
+  // 2. 暴力解题
   // let len = s.length / 2;
 
   // for (let i = 0; i < len; i++) {
