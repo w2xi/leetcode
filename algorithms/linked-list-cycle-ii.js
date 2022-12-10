@@ -35,16 +35,16 @@ var detectCycle = function (head) {
 
   // 2. 集合 (空间复杂度O(n))
 
-  let curr = head;
-  const set = new Set();
+  // let curr = head;
+  // const set = new Set();
 
-  while (curr) {
-    if (set.has(curr)) {
-      return curr;
-    }
-    set.add(curr);
-    curr = curr.next;
-  }
+  // while (curr) {
+  //   if (set.has(curr)) {
+  //     return curr;
+  //   }
+  //   set.add(curr);
+  //   curr = curr.next;
+  // }
 
-  return null;
+  // return null;
 };
