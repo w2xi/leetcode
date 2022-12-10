@@ -13,17 +13,46 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function (headA, headB) {
+  // 思路: 让 headA 和 headB 从同一起点出来, 开始移动, 结果 相交或不相交
+  // 这种方式更好理解
+
   if (!headA || !headB) {
     return null;
   }
+  const getLength = (head) => {
+    let count = 0;
+    let curr = head;
+    while (curr) {
+      count++;
+      curr = curr.next;
+    }
+    return count;
+  };
+  let aLen = getLength(headA);
+  let bLen = getLength(headB);
+  let diff = Math.abs(aLen - bLen);
 
-  let currA = headA;
-  let currB = headB;
-
-  while (currA !== currB) {
-    currA = currA ? currA.next : headB;
-    currB = currB ? currB.next : headA;
+  if (aLen < bLen) {
+    [headA, headB] = [headB, headA];
+    [aLen, bLen] = [bLen, aLen];
   }
+  while (diff--) {
+    headA = headA.next;
+  }
+  while (headA !== headB) {
+    headA = headA.next;
+    headB = headB.next;
+  }
+  return headA;
 
-  return currA;
+  // if (!headA || !headB) {
+  //   return null;
+  // }
+  // let currA = headA;
+  // let currB = headB;
+  // while (currA !== currB) {
+  //   currA = currA ? currA.next : headB;
+  //   currB = currB ? currB.next : headA;
+  // }
+  // return currA;
 };
