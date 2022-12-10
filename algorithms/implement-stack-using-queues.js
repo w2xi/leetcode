@@ -19,7 +19,16 @@ MyStack.prototype.push = function (x) {
  * @return {number}
  */
 MyStack.prototype.pop = function () {
-  // 将queue中除了最后一个元素之外的都copy到backup中
+  // queue:  [1, 2, 3, 4]
+  // backup: []
+  // =>
+  // queue:  [4]
+  // backup: [1, 2, 3]
+  // =>
+  // queue:  [4, 1, 2, 3]
+  // bakcup: []
+
+  // 将 queue 中除了最后一个元素之外的都 copy 到 backup 中
   while (this.queue.length > 1) {
     this.backup.push(this.queue.shift());
   }
