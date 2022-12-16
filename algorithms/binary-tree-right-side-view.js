@@ -7,29 +7,23 @@
  * }
  */
 /**
+ * 199. 二叉树的右视图
  * @param {TreeNode} root
  * @return {number[]}
  */
 var rightSideView = function (root) {
-  // 思路：
-  // 层序遍历的时候，判断是否遍历到单层的最后面的元素
-  // 如果是，就放进result数组中，随后返回result就可以了
-
   const result = [];
   const queue = [];
-  queue.push(root);
+  root && queue.push(root);
 
-  if (!root) return [];
-
-  while (queue.length > 0) {
+  while (queue.length) {
     let size = queue.length;
+    result.push(queue[0].val);
 
     while (size--) {
       const node = queue.shift();
-
-      size === 0 && result.push(node.val);
-      node.left && queue.push(node.left);
       node.right && queue.push(node.right);
+      node.left && queue.push(node.left);
     }
   }
 
