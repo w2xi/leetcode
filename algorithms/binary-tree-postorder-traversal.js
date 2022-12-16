@@ -29,6 +29,10 @@ var postorderTraversal = function (root) {
   // return postOrderTraversalIterate(root);
 };
 
+// 后序遍历
+// 中右左
+// => reverse
+// 左右中
 function postOrderTraversalIterate(root) {
   const result = [];
   const stack = [];
