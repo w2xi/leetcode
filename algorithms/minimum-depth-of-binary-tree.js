@@ -47,5 +47,5 @@ function bfs(root) {
     }
   }
 
-  return minDepth;
+  return depth;
 }
