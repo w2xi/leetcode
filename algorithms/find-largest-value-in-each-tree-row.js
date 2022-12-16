@@ -20,12 +20,12 @@ var largestValues = function (root) {
 
   while (queue.length > 0) {
     let size = queue.length;
-    let max = null;
+    let max = queue[0].val;
     // 通过size实现按层处理
     while (size--) {
       const node = queue.shift();
-      // 找到每层的最大值
-      if (max == null || node.val > max) {
+      // update max
+      if (node.val > max) {
         max = node.val;
       }
       node.left && queue.push(node.left);
