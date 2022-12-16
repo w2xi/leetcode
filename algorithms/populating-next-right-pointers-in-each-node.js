@@ -44,12 +44,8 @@ function bfs(root) {
 
     while (size--) {
       const node = queue.shift();
-      if (size === 0) {
-        node.next = null;
-      } else {
-        const top = queue[0];
-        node.next = top;
-      }
+      node.next = size === 0 ? null : queue[0];
+      
       node.left && queue.push(node.left);
       node.right && queue.push(node.right);
     }
