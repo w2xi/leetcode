@@ -7,6 +7,7 @@
  */
 
 /**
+ * 589. N 叉树的前序遍历
  * @param {Node|null} root
  * @return {number[]}
  */
@@ -27,11 +28,10 @@ var preorder = function (root) {
 
   return result;
 
-  // BFS
+  // 迭代法
   // return bfs(root);
 };
 
-// BFS
 function bfs(root) {
   const result = [];
   const stack = [];
