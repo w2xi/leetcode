@@ -11,21 +11,25 @@
  * @return {boolean}
  */
 var isBalanced = function (root) {
-  function helper(node) {
-    if (!node) return 0;
-    const leftHeight = helper(node.left);
-    const rightHeight = helper(node.right);
-    // 左子树 右子树 高度差的绝对值
-    const abs = Math.abs(leftHeight - rightHeight);
-    // 后序遍历(先访问左右子树，然后才访问父节点)
-    if (leftHeight >= 0 && rightHeight >= 0 && abs <= 1) {
-      // 根节点高度
-      return Math.max(leftHeight, rightHeight) + 1;
-    } else {
-      // 表示不是平衡二叉树了
-      return -1;
-    }
+  if (!root) {
+    return true;
   }
+  // 后序遍历
+  const getHeight = (root) => {
+    if (!root) {
+      return 0;
+    }
+    const lh = getHeight(root.left);
+    const rh = getHeight(root.right);
 
-  return helper(root) >= 0;
+    if (lh === false || rh === false) return false;
+    if (Math.abs(lh - rh) > 1) {
+      // 返回 false 标记左右子树差大于1, 即不是平衡二叉树
+      return false;
+    }
+    // 当前节点为根节点的树的最大高度
+    return Math.max(lh, rh) + 1;
+  };
+
+  return getHeight(root);
 };
