@@ -51,19 +51,20 @@ function postOrder(root) {
   if (!root) return 0;
   let left = root.left;
   let right = root.right;
-  let leftHeight = 0, rightHeight = 0;
+  let leftHeight = 1, rightHeight = 1;
 
-  while (left) {                    // 计算左子树左侧节点深度
+  while (left) {  // 计算左子树左侧节点深度
     leftHeight++;
     left = left.left;
   }
-  while (right) {                   // 计算右子树右侧节点深度
+  while (right) { // 计算右子树右侧节点深度
     rightHeight++;
     right = right.right;
   }
-
-  if (leftHeight === rightHeight) { // 满二叉树节点数量
-    return (2 << leftHeight) - 1;
+  // 判断子树是否是满二叉树
+  // 满二叉树的节点数目: 2^h-1 
+  if (leftHeight === rightHeight) {
+    return Math.pow(2, leftHeight) - 1;
   }
 
   const leftNum = postOrder(root.left);
