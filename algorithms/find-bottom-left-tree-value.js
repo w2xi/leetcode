@@ -33,27 +33,26 @@
   dfs(root, 1);
 
   return result;
-
-  // bfs
-  // 拿到最后一层的最后一个值
-  const bfs = (root) => {
-    const queue = [root];
-    let result;
-
-    while (queue.length) {
-      let size = queue.length;
-      for (let i = 0; i < size; i++){
-        const node = queue.shift();
-        if (i === 0) {
-          result = node.val;
-        }
-        node.left && queue.push(node.left);
-        node.right && queue.push(node.right);
-      }
-    }
-    return result;
-  }
-
-  return bfs(root);
+  
+  // return bfs(root);
 };
+
+// 拿到最后一层的最后一个值
+function bfs(root) {
+  const queue = [root];
+  let result;
+
+  while (queue.length) {
+    let size = queue.length;
+    for (let i = 0; i < size; i++){
+      const node = queue.shift();
+      if (i === 0) {
+        result = node.val;
+      }
+      node.left && queue.push(node.left);
+      node.right && queue.push(node.right);
+    }
+  }
+  return result;
+}
 
