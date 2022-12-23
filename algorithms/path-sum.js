@@ -17,38 +17,32 @@ var hasPathSum = function (root, targetSum) {
   if (!root) return false;
   // leaf node
   if (!root.left && !root.right && targetSum === root.val) {
-    return true;
+    return true
   }
-  return (
-    hasPathSum(root.left, targetSum - root.val) ||
-    hasPathSum(root.right, targetSum - root.val)
-  );
+  let left = hasPathSum(root.left, targetSum - root.val);
+  let right = hasPathSum(root.right, targetSum - root.val);
 
-  // 自己开始想出来的 但是略显冗余 还使用了额外的空间
-  // return hasPathSum2(root, targetSum);
+  return left || right;
+
+  // 迭代
+  // return preOrder(root, targetSum);
 };
 
-function hasPathSum2(root, targetSum) {
-  if (!root) return false;
+function preOrder(root, targetSum) {
   const stack = [];
-  let flag = false;
-  const preOrder = (node) => {
-    if (node) {
-      stack.push(node.val);
-      // leaf node
-      if (!node.left && !node.right && targetSum === sum(stack)) {
-        flag = true;
-      }
-      if (!flag) { // 剪枝
-        preOrder(node.left);
-        preOrder(node.right);
-      }
-      stack.pop(); // 回溯
+  root && stack.push({ node: root, sum: targetSum });
+
+  while (stack.length) {
+    const curr = stack.pop();
+    const node = curr.node;
+
+    if (!node.left && !node.right && curr.sum === node.val) {
+      return true;
     }
-  };
-  preOrder(root);
-  return flag;
-}
-function sum(arr) {
-  return arr.reduce((a, b) => a + b);
+
+    node.right && stack.push({ node: node.right, sum: curr.sum - node.val });
+    node.left && stack.push({ node: node.left, sum: curr.sum - node.val });
+  }
+
+  return false;
 }

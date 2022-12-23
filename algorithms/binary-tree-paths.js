@@ -7,7 +7,7 @@
  * }
  */
 /**
- * 二叉树的所有路径
+ * 257. 二叉树的所有路径
  * @param {TreeNode} root
  * @return {string[]}
  */
