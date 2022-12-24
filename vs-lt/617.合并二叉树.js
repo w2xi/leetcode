@@ -1,3 +1,10 @@
+/*
+ * @lc app=leetcode.cn id=617 lang=javascript
+ *
+ * [617] 合并二叉树
+ */
+
+// @lc code=start
 /**
  * Definition for a binary tree node.
  * function TreeNode(val, left, right) {
@@ -7,21 +14,20 @@
  * }
  */
 /**
- * 合并二叉树
  * @param {TreeNode} root1
  * @param {TreeNode} root2
  * @return {TreeNode}
  */
-var mergeTrees = function (root1, root2) {
-  // 精简一下判断逻辑
-  if (!root1) return root2;
+var mergeTrees = function(root1, root2) {
   if (!root2) return root1;
-
-  // 合并节点值到 root1
-  root1.val += root2.val;
-  // 递归合并左右子树
+  if (!root1) return root2;
+  if (root1 && root2) {
+    root1.val += root2.val;
+  }
   root1.left = mergeTrees(root1.left, root2.left);
   root1.right = mergeTrees(root1.right, root2.right);
 
   return root1;
 };
+// @lc code=end
+
