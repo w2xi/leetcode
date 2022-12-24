@@ -34,6 +34,7 @@ var isValidBST = function (root) {
   // return inOrder2(root);
 };
 
+// 辅助数组
 // 空间复杂度 O(n)
 function inOrder2(root) {
   const arr = [];
