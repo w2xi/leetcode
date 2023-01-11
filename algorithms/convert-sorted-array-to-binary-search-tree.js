@@ -13,7 +13,7 @@
 var sortedArrayToBST = function (nums) {
   // 需要分割数组,产生了额外的内存开销
   if (nums.length == 0) return null;
-  const mid = Math.floor(nums.length / 2);
+  const mid = nums.length >> 1;
   const root = new TreeNode(nums[mid]);
 
   root.left = sortedArrayToBST(nums.slice(0, mid));
