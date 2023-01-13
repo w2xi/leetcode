@@ -178,6 +178,7 @@
 |1945|[字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)|[JavaScript](./algorithms/sum-of-digits-of-string-after-convert.js)|Easy|
 |2032|[至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)|[JavaScript](./algorithms/two-out-of-three.js)|Easy|
 |2283|[判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[JavaScript](./algorithms/check-if-number-has-equal-digit-count-and-digit-value.js)|Easy|
+|2287|[重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)|[JavaScript](./algorithms/rearrange-characters-to-make-target-string.js)|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
 |剑指 Offer 05. 替换空格|[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|[JavaScript](./algorithms/ti-huan-kong-ge-lcof.js)|Easy|
