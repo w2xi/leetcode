@@ -174,6 +174,7 @@
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
 |1780|[判断一个数字是否可以表示成三的幂的和](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/)|[JavaScript](./algorithms/check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 |1807|[替换字符串中的括号内容](https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/)|[JavaScript](./algorithms/evaluate-the-bracket-pairs-of-a-string.js)|Medium|
+|1813|[句子相似性 III](https://leetcode.cn/problems/sentence-similarity-iii/)|[JavaScript](./algorithms/sentence-similarity-iii.js)|Medium|
 |1832|[判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)|[JavaScript](./algorithms/check-if-the-sentence-is-pangram.js)|Easy|
 |1945|[字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)|[JavaScript](./algorithms/sum-of-digits-of-string-after-convert.js)|Easy|
 |2032|[至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)|[JavaScript](./algorithms/two-out-of-three.js)|Easy|
