@@ -155,6 +155,7 @@
 |654|[最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/)|[JavaScript](./algorithms/maximum-binary-tree.js)|Medium|
 |657|[机器人能否返回原点](https://leetcode.cn/problems/robot-return-to-origin/)|[JavaScript](./algorithms/robot-return-to-origin.js)|Easy|
 |669|[修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)|[JavaScript](./algorithms/trim-a-binary-search-tree.js)|Medium|
+|671|[二叉树中第二小的节点](https://leetcode.cn/problems/second-minimum-node-in-a-binary-tree/)|[JavaScript](./algorithms/second-minimum-node-in-a-binary-tree.js)|Easy|
 |682|[棒球比赛](https://leetcode.cn/problems/baseball-game/)|[JavaScript](./algorithms/baseball-game.js)|Easy|
 |687|[最长同值路径](https://leetcode.cn/problems/longest-univalue-path/)|[JavaScript](./algorithms/longest-univalue-path.js)|Medium|
 |690|[员工的重要性](https://leetcode.cn/problems/employee-importance/)|[JavaScript](./algorithms/employee-importance.js)|Medium|
