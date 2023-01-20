@@ -32,6 +32,7 @@
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./algorithms/find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Easy|
 |39|[组合总和](https://leetcode.cn/problems/combination-sum/)|[JavaScript](./algorithms/combination-sum.js)|Medium|
+|40|[组合总和 II](https://leetcode.cn/problems/combination-sum-ii/)|[JavaScript](./algorithms/combination-sum-ii.js)|Medium|
 |48|[旋转图像](https://leetcode.cn/problems/rotate-image/)|[JavaScript](./algorithms/rotate-image.js)|Medium|
 |49|[字母异位词分组](https://leetcode.cn/problems/group-anagrams/)|[JavaScript](./algorithms/group-anagrams.js)|Medium|
 |54|[螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|[JavaScript](./algorithms/spiral-matrix.js)|Medium|
