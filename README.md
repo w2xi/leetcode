@@ -48,6 +48,7 @@
 |82|[删除排序链表中的重复元素 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list-ii.js)|Medium|
 |83|[删除排序链表中的重复元素](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./algorithms/remove-duplicates-from-sorted-list.js)|Easy|
 |88|[合并两个有序数组](https://leetcode.cn/problems/merge-sorted-array/)|[JavaScript](./algorithms/merge-sorted-array.js)|Easy|
+|93|[复原 IP 地址](https://leetcode.cn/problems/restore-ip-addresses/)|[JavaScript](./algorithms/restore-ip-addresses.js)|Medium|
 |94|[二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)|[JavaScript](./algorithms/binary-tree-inorder-traversal.js)|Easy|
 |98|[验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)|[JavaScript](./algorithms/validate-binary-search-tree.js)|Medium|
 |100|[相同的树](https://leetcode.cn/problems/same-tree/)|[JavaScript](./algorithms/same-tree.js)|Easy|
