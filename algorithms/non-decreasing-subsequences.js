@@ -13,7 +13,7 @@ var findSubsequences = function (nums) {
     if (path.length >= 2) {
       result.push(path.slice());
     }
-    /// 同一父节点下的同层上使用过的元素就不能再使用了
+    // 同一父节点下的同层上使用过的元素就不能再使用了
     // 这里使用set来对本层元素进行去重
     const set = new Set();
     for (let i = startIndex; i < nums.length; i++) {
