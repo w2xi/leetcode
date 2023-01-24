@@ -192,6 +192,7 @@
 |1814|[统计一个数组中好对子的数目](https://leetcode.cn/problems/count-nice-pairs-in-an-array/)|[JavaScript](./algorithms/count-nice-pairs-in-an-array.js)|Medium|
 |1828|[统计一个圆中点的数目](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/)|[JavaScript](./algorithms/queries-on-number-of-points-inside-a-circle.js)|Medium|
 |1832|[判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)|[JavaScript](./algorithms/check-if-the-sentence-is-pangram.js)|Easy|
+|1863|[找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/)|[JavaScript](./algorithms/sum-of-all-subset-xor-totals.js)|Easy|
 |1945|[字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)|[JavaScript](./algorithms/sum-of-digits-of-string-after-convert.js)|Easy|
 |2032|[至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)|[JavaScript](./algorithms/two-out-of-three.js)|Easy|
 |2283|[判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[JavaScript](./algorithms/check-if-number-has-equal-digit-count-and-digit-value.js)|Easy|
