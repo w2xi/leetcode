@@ -188,6 +188,7 @@
 |1807|[替换字符串中的括号内容](https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/)|[JavaScript](./algorithms/evaluate-the-bracket-pairs-of-a-string.js)|Medium|
 |1813|[句子相似性 III](https://leetcode.cn/problems/sentence-similarity-iii/)|[JavaScript](./algorithms/sentence-similarity-iii.js)|Medium|
 |1814|[统计一个数组中好对子的数目](https://leetcode.cn/problems/count-nice-pairs-in-an-array/)|[JavaScript](./algorithms/count-nice-pairs-in-an-array.js)|Medium|
+|1828|[统计一个圆中点的数目](https://leetcode.cn/problems/queries-on-number-of-points-inside-a-circle/)|[JavaScript](./algorithms/queries-on-number-of-points-inside-a-circle.js)|Medium|
 |1832|[判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)|[JavaScript](./algorithms/check-if-the-sentence-is-pangram.js)|Easy|
 |1945|[字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)|[JavaScript](./algorithms/sum-of-digits-of-string-after-convert.js)|Easy|
 |2032|[至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)|[JavaScript](./algorithms/two-out-of-three.js)|Easy|
