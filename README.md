@@ -201,6 +201,7 @@
 |2287|[重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/)|[JavaScript](./algorithms/rearrange-characters-to-make-target-string.js)|Easy|
 |2293|[极大极小游戏](https://leetcode.cn/problems/min-max-game/)|[JavaScript](./algorithms/min-max-game.js)|Easy|
 |2299|[强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)|[JavaScript](./algorithms/strong-password-checker-ii.js)|Easy|
+|2309|[兼具大小写的最好英文字母](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)|[JavaScript](./algorithms/greatest-english-letter-in-upper-and-lower-case.js)|Easy|
 |2351|[第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)|[JavaScript](./algorithms/first-letter-to-appear-twice.js)|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
