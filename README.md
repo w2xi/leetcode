@@ -115,6 +115,7 @@
 |303|[区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)|[JavaScript](./algorithms/range-sum-query-immutable.js)|Easy|
 |304|[二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/)|[JavaScript](./algorithms/range-sum-query-2d-immutable.js)|Medium|
 |328|[奇偶链表](https://leetcode.cn/problems/odd-even-linked-list/)|[JavaScript](./algorithms/odd-even-linked-list.js)|Medium|
+|332|[重新安排行程](https://leetcode.cn/problems/reconstruct-itinerary/)|[JavaScript](./algorithms/reconstruct-itinerary.js)|Hard|
 |344|[反转字符串](https://leetcode-cn.com/problems/reverse-string/)|[JavaScript](./algorithms/reverse-string.js)|Easy|
 |347|[前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)|[JavaScript](./algorithms/top-k-frequent-elements.js)|Medium|
 |349|[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)|[JavaScript](./algorithms/intersection-of-two-arrays.js)|Easy|
