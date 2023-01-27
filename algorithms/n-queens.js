@@ -33,13 +33,13 @@ function isValid(row, col, chessBoard, n) {
       return false;
     }
   }
-  // 检查45度角是否有皇后
+  // 检查45度角是否有皇后 ( 正斜线 )
   for (let i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
     if (chessBoard[i][j] === "Q") {
       return false;
     }
   }
-  // 检查135度角是否有皇后
+  // 检查135度角是否有皇后 ( 反斜线 )
   for (let i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
     if (chessBoard[i][j] === "Q") {
       return false;
@@ -48,6 +48,16 @@ function isValid(row, col, chessBoard, n) {
   return true;
 }
 
+/**
+  [
+    [ '.', 'Q', '.', '.' ],
+    [ '.', '.', '.', 'Q' ],
+    [ 'Q', '.', '.', '.' ],
+    [ '.', '.', 'Q', '.' ]
+  ]
+  =>
+  [".Q..","...Q","Q...","..Q."]
+ */
 function transformChessBoard(chessBoard) {
   let chessBoardBack = [];
   chessBoard.forEach((row) => {
