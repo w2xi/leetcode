@@ -31,6 +31,7 @@
 |28|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithms/implement-strstr.js)|Easy|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./algorithms/find-first-and-last-position-of-element-in-sorted-array.js)|Medium|
 |35|[搜索插入位置](https://leetcode.cn/problems/search-insert-position/)|[JavaScript](./algorithms/search-insert-position.js)|Easy|
+|37|[解数独](https://leetcode.cn/problems/sudoku-solver/)|[JavaScript](./algorithms/sudoku-solver.js)|Hard|
 |39|[组合总和](https://leetcode.cn/problems/combination-sum/)|[JavaScript](./algorithms/combination-sum.js)|Medium|
 |40|[组合总和 II](https://leetcode.cn/problems/combination-sum-ii/)|[JavaScript](./algorithms/combination-sum-ii.js)|Medium|
 |46|[全排列](https://leetcode.cn/problems/permutations/)|[JavaScript](./algorithms/permutations.js)|Medium|
