@@ -190,6 +190,7 @@
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
+|1664|[生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array/)|[JavaScript](./algorithms/ways-to-make-a-fair-array.js)|Medium|
 |1780|[判断一个数字是否可以表示成三的幂的和](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/)|[JavaScript](./algorithms/check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 |1807|[替换字符串中的括号内容](https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/)|[JavaScript](./algorithms/evaluate-the-bracket-pairs-of-a-string.js)|Medium|
 |1813|[句子相似性 III](https://leetcode.cn/problems/sentence-similarity-iii/)|[JavaScript](./algorithms/sentence-similarity-iii.js)|Medium|
