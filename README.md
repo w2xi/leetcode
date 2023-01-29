@@ -139,6 +139,7 @@
 |451|[根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency/)|[JavaScript](./algorithms/sort-characters-by-frequency.js)|Medium|
 |453|[最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/)|[JavaScript](./algorithms/minimum-moves-to-equal-array-elements.js)|Easy|
 |454|[四数相加 II](https://leetcode.cn/problems/4sum-ii/)|[JavaScript](./algorithms/4sum-ii.js)|Medium|
+|455|[分发饼干](https://leetcode.cn/problems/assign-cookies/)|[JavaScript](./algorithms/assign-cookies.js)|Easy|
 |485|[最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/)|[JavaScript](./algorithms/max-consecutive-ones.js)|Easy|
 |491|[递增子序列](https://leetcode.cn/problems/non-decreasing-subsequences/)|[JavaScript](./algorithms/non-decreasing-subsequences.js)|Medium|
 |495|[提莫攻击](https://leetcode.cn/problems/teemo-attacking/)|[JavaScript](./algorithms/teemo-attacking.js)|Easy|
@@ -190,6 +191,7 @@
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
+|1413|[逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)|[JavaScript](./algorithms/minimum-value-to-get-positive-step-by-step-sum.js)|Easy|
 |1664|[生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array/)|[JavaScript](./algorithms/ways-to-make-a-fair-array.js)|Medium|
 |1780|[判断一个数字是否可以表示成三的幂的和](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/)|[JavaScript](./algorithms/check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
 |1807|[替换字符串中的括号内容](https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/)|[JavaScript](./algorithms/evaluate-the-bracket-pairs-of-a-string.js)|Medium|
