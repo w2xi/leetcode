@@ -20,10 +20,10 @@
  * @return {ListNode}
  */
 var mergeInBetween = function(list1, a, b, list2) {
-  let prev;
-  let last;
-  let curr = list1;
   let count = 0;
+  let prev; // 链表1的第a-1个节点
+  let last; // 链表1的第b+1个节点
+  let curr = list1;
   while (curr) {
     if (count === a - 1) {
       prev = curr;
@@ -34,14 +34,13 @@ var mergeInBetween = function(list1, a, b, list2) {
     curr = curr.next;
     count++;
   }
-  
   curr = list2;
-  let list2Tail;
+  let list2Tail; // 链表2的尾节点
   while (curr) {
     list2Tail = curr;
     curr = curr.next;
   }
-  // 拼接
+  // 将链表2插入到链表1中
   prev.next = list2;
   list2Tail.next = last;
 
