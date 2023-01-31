@@ -211,6 +211,7 @@
 |2299|[强密码检验器 II](https://leetcode.cn/problems/strong-password-checker-ii/)|[JavaScript](./algorithms/strong-password-checker-ii.js)|Easy|
 |2309|[兼具大小写的最好英文字母](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)|[JavaScript](./algorithms/greatest-english-letter-in-upper-and-lower-case.js)|Easy|
 |2315|[统计星号](https://leetcode.cn/problems/count-asterisks/)|[JavaScript](./algorithms/count-asterisks.js)|Easy|
+|2319|[判断矩阵是否是一个 X 矩阵](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/)|[JavaScript](./algorithms/check-if-matrix-is-x-matrix.js)|Easy|
 |2351|[第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)|[JavaScript](./algorithms/first-letter-to-appear-twice.js)|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
