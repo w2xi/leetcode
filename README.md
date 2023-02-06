@@ -212,6 +212,7 @@
 |2309|[兼具大小写的最好英文字母](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)|[JavaScript](./algorithms/greatest-english-letter-in-upper-and-lower-case.js)|Easy|
 |2315|[统计星号](https://leetcode.cn/problems/count-asterisks/)|[JavaScript](./algorithms/count-asterisks.js)|Easy|
 |2319|[判断矩阵是否是一个 X 矩阵](https://leetcode.cn/problems/check-if-matrix-is-x-matrix/)|[JavaScript](./algorithms/check-if-matrix-is-x-matrix.js)|Easy|
+|2325|[解密消息](https://leetcode.cn/problems/decode-the-message/)|[JavaScript](./algorithms/decode-the-message.js)|Easy|
 |2331|[计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/)|[JavaScript](./algorithms/evaluate-boolean-binary-tree.js)|Easy|
 |2351|[第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)|[JavaScript](./algorithms/first-letter-to-appear-twice.js)|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
