@@ -76,6 +76,7 @@
 |117|[填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)|[JavaScript](./algorithms/populating-next-right-pointers-in-each-node-ii.js)|Medium|
 |118|[杨辉三角](https://leetcode.cn/problems/pascals-triangle/)|[JavaScript](./algorithms/pascals-triangle.js)|Easy|
 |119|[杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/)|[JavaScript](./algorithms/pascals-triangle-ii.js)|Easy|
+|122|[买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./algorithms/best-time-to-buy-and-sell-stock-ii.js)|Medium|
 |124|[二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)|[JavaScript](./algorithms/binary-tree-maximum-path-sum.js)|Hard|
 |125|[验证回文串](https://leetcode.cn/problems/valid-palindrome/)|[JavaScript](./algorithms/valid-palindrome.js)|Easy|
 |129|[求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/)|[JavaScript](./algorithms/sum-root-to-leaf-numbers.js)|Medium|
