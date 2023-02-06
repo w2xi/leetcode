@@ -41,6 +41,7 @@
 |51|[N 皇后](https://leetcode.cn/problems/n-queens/)|[JavaScript](./algorithms/n-queens.js)|Hard|
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
 |54|[螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|[JavaScript](./algorithms/spiral-matrix.js)|Medium|
+|55|[跳跃游戏](https://leetcode.cn/problems/jump-game/)|[JavaScript](./algorithms/jump-game.js)|Medium|
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[JavaScript](./algorithms/length-of-last-word.js)|Easy|
 |59|[螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)|[JavaScript](./algorithms/spiral-matrix-ii.js)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
