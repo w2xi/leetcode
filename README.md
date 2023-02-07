@@ -41,6 +41,7 @@
 |51|[N 皇后](https://leetcode.cn/problems/n-queens/)|[JavaScript](./algorithms/n-queens.js)|Hard|
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
 |54|[螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|[JavaScript](./algorithms/spiral-matrix.js)|Medium|
+|55|[跳跃游戏](https://leetcode.cn/problems/jump-game/)|[JavaScript](./algorithms/jump-game.js)|Medium|
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[JavaScript](./algorithms/length-of-last-word.js)|Easy|
 |59|[螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)|[JavaScript](./algorithms/spiral-matrix-ii.js)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
@@ -76,6 +77,7 @@
 |117|[填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/)|[JavaScript](./algorithms/populating-next-right-pointers-in-each-node-ii.js)|Medium|
 |118|[杨辉三角](https://leetcode.cn/problems/pascals-triangle/)|[JavaScript](./algorithms/pascals-triangle.js)|Easy|
 |119|[杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/)|[JavaScript](./algorithms/pascals-triangle-ii.js)|Easy|
+|122|[买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./algorithms/best-time-to-buy-and-sell-stock-ii.js)|Medium|
 |124|[二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)|[JavaScript](./algorithms/binary-tree-maximum-path-sum.js)|Hard|
 |125|[验证回文串](https://leetcode.cn/problems/valid-palindrome/)|[JavaScript](./algorithms/valid-palindrome.js)|Easy|
 |129|[求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/)|[JavaScript](./algorithms/sum-root-to-leaf-numbers.js)|Medium|
