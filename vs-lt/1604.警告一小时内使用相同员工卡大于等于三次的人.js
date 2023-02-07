@@ -26,9 +26,8 @@ var alertNames = function(keyName, keyTime) {
       continue
     }
     item.sort();
-    for (let i = 0; i < item.length && i + 2 < item.length; i++) {
-      const diff = diffTimestamp(item[i], item[i + 2]);
-      if (diff >= 0 && diff <= 3600) {
+    for (let i = 2; i < item.length; i++) {
+      if (toNum(item[i]) - toNum(item[i - 2]) <= 100) {
         result.push(key);
         break;
       }
@@ -36,12 +35,9 @@ var alertNames = function(keyName, keyTime) {
   }
   return result.sort();
 };
-function diffTimestamp(time1, time2) {
-  return toTimestamp(time2) - toTimestamp(time1);
-}
-function toTimestamp(str) {
-  const [hours, minutes] = str.split(':');
-  return hours * 3600 + minutes * 60;
+// '09:00' => '0900'
+function toNum(str) {
+  return str.split(':').join('');
 }
 // @lc code=end
 
