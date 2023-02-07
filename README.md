@@ -193,6 +193,7 @@
 |977|[有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)|[JavaScript](./algorithms/squares-of-a-sorted-array.js)|Easy|
 |988|[从叶结点开始的最小字符串](https://leetcode.cn/problems/smallest-string-starting-from-leaf/)|[JavaScript](./algorithms/smallest-string-starting-from-leaf.js)|Medium|
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
+|1005|[K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/)|[JavaScript](./algorithms/maximize-sum-of-array-after-k-negations.js)|Easy|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
 |1413|[逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)|[JavaScript](./algorithms/minimum-value-to-get-positive-step-by-step-sum.js)|Easy|
