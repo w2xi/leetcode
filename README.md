@@ -34,6 +34,7 @@
 |37|[解数独](https://leetcode.cn/problems/sudoku-solver/)|[JavaScript](./algorithms/sudoku-solver.js)|Hard|
 |39|[组合总和](https://leetcode.cn/problems/combination-sum/)|[JavaScript](./algorithms/combination-sum.js)|Medium|
 |40|[组合总和 II](https://leetcode.cn/problems/combination-sum-ii/)|[JavaScript](./algorithms/combination-sum-ii.js)|Medium|
+|45|[跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/)|[JavaScript](./algorithms/jump-game-ii.js)|Medium|
 |46|[全排列](https://leetcode.cn/problems/permutations/)|[JavaScript](./algorithms/permutations.js)|Medium|
 |47|[全排列 II](https://leetcode.cn/problems/permutations-ii/)|[JavaScript](./algorithms/permutations-ii.js)|Medium|
 |48|[旋转图像](https://leetcode.cn/problems/rotate-image/)|[JavaScript](./algorithms/rotate-image.js)|Medium|
