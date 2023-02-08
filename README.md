@@ -34,6 +34,7 @@
 |37|[解数独](https://leetcode.cn/problems/sudoku-solver/)|[JavaScript](./algorithms/sudoku-solver.js)|Hard|
 |39|[组合总和](https://leetcode.cn/problems/combination-sum/)|[JavaScript](./algorithms/combination-sum.js)|Medium|
 |40|[组合总和 II](https://leetcode.cn/problems/combination-sum-ii/)|[JavaScript](./algorithms/combination-sum-ii.js)|Medium|
+|45|[跳跃游戏 II](https://leetcode.cn/problems/jump-game-ii/)|[JavaScript](./algorithms/jump-game-ii.js)|Medium|
 |46|[全排列](https://leetcode.cn/problems/permutations/)|[JavaScript](./algorithms/permutations.js)|Medium|
 |47|[全排列 II](https://leetcode.cn/problems/permutations-ii/)|[JavaScript](./algorithms/permutations-ii.js)|Medium|
 |48|[旋转图像](https://leetcode.cn/problems/rotate-image/)|[JavaScript](./algorithms/rotate-image.js)|Medium|
@@ -192,6 +193,7 @@
 |977|[有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)|[JavaScript](./algorithms/squares-of-a-sorted-array.js)|Easy|
 |988|[从叶结点开始的最小字符串](https://leetcode.cn/problems/smallest-string-starting-from-leaf/)|[JavaScript](./algorithms/smallest-string-starting-from-leaf.js)|Medium|
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
+|1005|[K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/)|[JavaScript](./algorithms/maximize-sum-of-array-after-k-negations.js)|Easy|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
 |1233|[删除子文件夹](https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/)|[JavaScript](./algorithms/remove-sub-folders-from-the-filesystem.js)|Medium|
