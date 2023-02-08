@@ -194,6 +194,7 @@
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
+|1233|[删除子文件夹](https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/)|[JavaScript](./algorithms/remove-sub-folders-from-the-filesystem.js)|Medium|
 |1413|[逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)|[JavaScript](./algorithms/minimum-value-to-get-positive-step-by-step-sum.js)|Easy|
 |1604|[警告一小时内使用相同员工卡大于等于三次的人](https://leetcode.cn/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/)|[JavaScript](./algorithms/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.js)|Medium|
 |1664|[生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array/)|[JavaScript](./algorithms/ways-to-make-a-fair-array.js)|Medium|
