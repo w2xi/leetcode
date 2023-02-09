@@ -202,6 +202,7 @@
 |1664|[生成平衡数组的方案数](https://leetcode.cn/problems/ways-to-make-a-fair-array/)|[JavaScript](./algorithms/ways-to-make-a-fair-array.js)|Medium|
 |1669|[合并两个链表](https://leetcode.cn/problems/merge-in-between-linked-lists/)|[JavaScript](./algorithms/merge-in-between-linked-lists.js)|Medium|
 |1780|[判断一个数字是否可以表示成三的幂的和](https://leetcode.cn/problems/check-if-number-is-a-sum-of-powers-of-three/)|[JavaScript](./algorithms/check-if-number-is-a-sum-of-powers-of-three.js)|Medium|
+|1797|[设计一个验证系统](https://leetcode.cn/problems/design-authentication-manager/)|[JavaScript](./algorithms/design-authentication-manager.js)|Medium|
 |1807|[替换字符串中的括号内容](https://leetcode.cn/problems/evaluate-the-bracket-pairs-of-a-string/)|[JavaScript](./algorithms/evaluate-the-bracket-pairs-of-a-string.js)|Medium|
 |1813|[句子相似性 III](https://leetcode.cn/problems/sentence-similarity-iii/)|[JavaScript](./algorithms/sentence-similarity-iii.js)|Medium|
 |1814|[统计一个数组中好对子的数目](https://leetcode.cn/problems/count-nice-pairs-in-an-array/)|[JavaScript](./algorithms/count-nice-pairs-in-an-array.js)|Medium|
