@@ -4,7 +4,7 @@
  * @return {number[][]}
  */
 var reconstructQueue = function (people) {
-  // 按照身高从高到低排序
+  // 按照身高从高到低排序, 身高相等的根据第二位的大小从小到大排序
   people.sort((a, b) => {
     if (a[0] === b[0]) {
       return a[1] - b[1];
