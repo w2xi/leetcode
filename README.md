@@ -226,6 +226,7 @@
 |2325|[解密消息](https://leetcode.cn/problems/decode-the-message/)|[JavaScript](./algorithms/decode-the-message.js)|Easy|
 |2331|[计算布尔二叉树的值](https://leetcode.cn/problems/evaluate-boolean-binary-tree/)|[JavaScript](./algorithms/evaluate-boolean-binary-tree.js)|Easy|
 |2335|[装满杯子需要的最短总时长](https://leetcode.cn/problems/minimum-amount-of-time-to-fill-cups/)|[JavaScript](./algorithms/minimum-amount-of-time-to-fill-cups.js)|Easy|
+|2341|[数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)|[JavaScript](./algorithms/maximum-number-of-pairs-in-array.js)|Easy|
 |2351|[第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)|[JavaScript](./algorithms/first-letter-to-appear-twice.js)|Easy|
 |6354|[找出数组的串联值](https://leetcode.cn/problems/find-the-array-concatenation-value/)|[JavaScript](./algorithms/find-the-array-concatenation-value.js)|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
