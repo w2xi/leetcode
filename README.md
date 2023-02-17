@@ -139,6 +139,7 @@
 |414|[第三大的数](https://leetcode.cn/problems/third-maximum-number/)|[JavaScript](./algorithms/third-maximum-number.js)|Easy|
 |429|[N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)|[JavaScript](./algorithms/n-ary-tree-level-order-traversal.js)|Medium|
 |434|[字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/)|[JavaScript](./algorithms/number-of-segments-in-a-string.js)|Easy|
+|435|[无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals/)|[JavaScript](./algorithms/non-overlapping-intervals.js)|Medium|
 |437|[路径总和 III](https://leetcode.cn/problems/path-sum-iii/)|[JavaScript](./algorithms/path-sum-iii.js)|Medium|
 |442|[数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/)|[JavaScript](./algorithms/find-all-duplicates-in-an-array.js)|Medium|
 |448|[找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./algorithms/find-all-numbers-disappeared-in-an-array.js)|Easy|
