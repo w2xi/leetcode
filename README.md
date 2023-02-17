@@ -189,6 +189,7 @@
 |701|[二叉搜索树中的插入操作](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)|[JavaScript](./algorithms/insert-into-a-binary-search-tree.js)|Medium|
 |704|[二分查找](https://leetcode.cn/problems/binary-search/)|[JavaScript](./algorithms/binary-search.js)|Easy|
 |707|[设计链表](https://leetcode.cn/problems/design-linked-list/)|[JavaScript](./algorithms/design-linked-list.js)|Medium|
+|763|[划分字母区间](https://leetcode.cn/problems/partition-labels/)|[JavaScript](./algorithms/partition-labels.js)|Medium|
 |844|[比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)|[JavaScript](./algorithms/backspace-string-compare.js)|Easy|
 |860|[柠檬水找零](https://leetcode.cn/problems/lemonade-change/)|[JavaScript](./algorithms/lemonade-change.js)|Easy|
 |876|[链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)|[JavaScript](./algorithms/middle-of-the-linked-list.js)|Easy|
