@@ -236,6 +236,7 @@
 |2341|[数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)|[JavaScript](./algorithms/maximum-number-of-pairs-in-array.js)|Easy|
 |2351|[第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)|[JavaScript](./algorithms/first-letter-to-appear-twice.js)|Easy|
 |6354|[找出数组的串联值](https://leetcode.cn/problems/find-the-array-concatenation-value/)|[JavaScript](./algorithms/find-the-array-concatenation-value.js)|Easy|
+|6362|[合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/)|[JavaScript]()|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
 |剑指 Offer 05. 替换空格|[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|[JavaScript](./algorithms/ti-huan-kong-ge-lcof.js)|Easy|
