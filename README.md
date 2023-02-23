@@ -43,6 +43,7 @@
 |53|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/)|[JavaScript](./algorithms/maximum-subarray.js)|Easy|
 |54|[螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)|[JavaScript](./algorithms/spiral-matrix.js)|Medium|
 |55|[跳跃游戏](https://leetcode.cn/problems/jump-game/)|[JavaScript](./algorithms/jump-game.js)|Medium|
+|56|[合并区间](https://leetcode.cn/problems/merge-intervals/)|[JavaScript](./algorithms/merge-intervals.js)|Medium|
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[JavaScript](./algorithms/length-of-last-word.js)|Easy|
 |59|[螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)|[JavaScript](./algorithms/spiral-matrix-ii.js)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
@@ -138,13 +139,15 @@
 |409|[最长回文串](https://leetcode.cn/problems/longest-palindrome/)|[JavaScript](./algorithms/longest-palindrome.js)|Easy|
 |412|[Fizz Buzz](https://leetcode.cn/problems/fizz-buzz/)|[JavaScript](./algorithms/fizz-buzz.js)|Easy|
 |414|[第三大的数](https://leetcode.cn/problems/third-maximum-number/)|[JavaScript](./algorithms/third-maximum-number.js)|Easy|
-|442|[数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/)|[JavaScript](./algorithms/find-all-duplicates-in-an-array.js)|Medium|
 |429|[N 叉树的层序遍历](https://leetcode.cn/problems/n-ary-tree-level-order-traversal/)|[JavaScript](./algorithms/n-ary-tree-level-order-traversal.js)|Medium|
 |434|[字符串中的单词数](https://leetcode.cn/problems/number-of-segments-in-a-string/)|[JavaScript](./algorithms/number-of-segments-in-a-string.js)|Easy|
+|435|[无重叠区间](https://leetcode.cn/problems/non-overlapping-intervals/)|[JavaScript](./algorithms/non-overlapping-intervals.js)|Medium|
 |437|[路径总和 III](https://leetcode.cn/problems/path-sum-iii/)|[JavaScript](./algorithms/path-sum-iii.js)|Medium|
+|442|[数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/)|[JavaScript](./algorithms/find-all-duplicates-in-an-array.js)|Medium|
 |448|[找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./algorithms/find-all-numbers-disappeared-in-an-array.js)|Easy|
 |450|[删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/)|[JavaScript](./algorithms/delete-node-in-a-bst.js)|Medium|
 |451|[根据字符出现频率排序](https://leetcode.cn/problems/sort-characters-by-frequency/)|[JavaScript](./algorithms/sort-characters-by-frequency.js)|Medium|
+|452|[用最少数量的箭引爆气球](https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/)|[JavaScript](./algorithms/minimum-number-of-arrows-to-burst-balloons.js)|Medium|
 |453|[最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/)|[JavaScript](./algorithms/minimum-moves-to-equal-array-elements.js)|Easy|
 |454|[四数相加 II](https://leetcode.cn/problems/4sum-ii/)|[JavaScript](./algorithms/4sum-ii.js)|Medium|
 |455|[分发饼干](https://leetcode.cn/problems/assign-cookies/)|[JavaScript](./algorithms/assign-cookies.js)|Easy|
@@ -154,6 +157,7 @@
 |498|[对角线遍历](https://leetcode.cn/problems/diagonal-traverse/)|[JavaScript](./algorithms/diagonal-traverse.js)|Medium|
 |501|[二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/)|[JavaScript](./algorithms/find-mode-in-binary-search-tree.js)|Easy|
 |506|[相对名次](https://leetcode.cn/problems/relative-ranks/)|[JavaScript](./algorithms/relative-ranks.js)|Easy|
+|508|[出现次数最多的子树元素和](https://leetcode.cn/problems/most-frequent-subtree-sum/)|[JavaScript](./algorithms/most-frequent-subtree-sum.js)|Medium|
 |509|[斐波那契数](https://leetcode.cn/problems/fibonacci-number/)|[JavaScript](./algorithms/fibonacci-number.js)|Easy|
 |513|[找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)|[JavaScript](./algorithms/find-bottom-left-tree-value.js)|Medium|
 |515|[在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/)|[JavaScript](./algorithms/find-largest-value-in-each-tree-row.js)|Medium|
@@ -188,6 +192,9 @@
 |701|[二叉搜索树中的插入操作](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)|[JavaScript](./algorithms/insert-into-a-binary-search-tree.js)|Medium|
 |704|[二分查找](https://leetcode.cn/problems/binary-search/)|[JavaScript](./algorithms/binary-search.js)|Easy|
 |707|[设计链表](https://leetcode.cn/problems/design-linked-list/)|[JavaScript](./algorithms/design-linked-list.js)|Medium|
+|714|[买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[JavaScript](./algorithms/best-time-to-buy-and-sell-stock-with-transaction-fee.js)|Medium|
+|738|[单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/)|[JavaScript](./algorithms/monotone-increasing-digits.js)|Medium|
+|763|[划分字母区间](https://leetcode.cn/problems/partition-labels/)|[JavaScript](./algorithms/partition-labels.js)|Medium|
 |844|[比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)|[JavaScript](./algorithms/backspace-string-compare.js)|Easy|
 |860|[柠檬水找零](https://leetcode.cn/problems/lemonade-change/)|[JavaScript](./algorithms/lemonade-change.js)|Easy|
 |876|[链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/)|[JavaScript](./algorithms/middle-of-the-linked-list.js)|Easy|
@@ -231,6 +238,7 @@
 |2341|[数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)|[JavaScript](./algorithms/maximum-number-of-pairs-in-array.js)|Easy|
 |2351|[第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)|[JavaScript](./algorithms/first-letter-to-appear-twice.js)|Easy|
 |6354|[找出数组的串联值](https://leetcode.cn/problems/find-the-array-concatenation-value/)|[JavaScript](./algorithms/find-the-array-concatenation-value.js)|Easy|
+|6362|[合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/)|[JavaScript]()|Easy|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
 |剑指 Offer 05. 替换空格|[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|[JavaScript](./algorithms/ti-huan-kong-ge-lcof.js)|Easy|
