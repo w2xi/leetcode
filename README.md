@@ -224,6 +224,7 @@
 |1832|[判断句子是否为全字母句](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)|[JavaScript](./algorithms/check-if-the-sentence-is-pangram.js)|Easy|
 |1863|[找出所有子集的异或总和再求和](https://leetcode.cn/problems/sum-of-all-subset-xor-totals/)|[JavaScript](./algorithms/sum-of-all-subset-xor-totals.js)|Easy|
 |1945|[字符串转化后的各位数字之和](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)|[JavaScript](./algorithms/sum-of-digits-of-string-after-convert.js)|Easy|
+|2202|[K 次操作后最大化顶端元素](https://leetcode.cn/problems/maximize-the-topmost-element-after-k-moves/)|[JavaScript](./algorithms/maximize-the-topmost-element-after-k-moves.js)|Medium|
 |2032|[至少在两个数组中出现的值](https://leetcode.cn/problems/two-out-of-three/)|[JavaScript](./algorithms/two-out-of-three.js)|Easy|
 |2042|[检查句子中的数字是否递增](https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/)|[JavaScript](./algorithms/check-if-numbers-are-ascending-in-a-sentence.js)|Easy|
 |2283|[判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|[JavaScript](./algorithms/check-if-number-has-equal-digit-count-and-digit-value.js)|Easy|
