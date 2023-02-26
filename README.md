@@ -46,6 +46,7 @@
 |56|[合并区间](https://leetcode.cn/problems/merge-intervals/)|[JavaScript](./algorithms/merge-intervals.js)|Medium|
 |58|[最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word/)|[JavaScript](./algorithms/length-of-last-word.js)|Easy|
 |59|[螺旋矩阵 II](https://leetcode.cn/problems/spiral-matrix-ii/)|[JavaScript](./algorithms/spiral-matrix-ii.js)|Medium|
+|62|[不同路径](https://leetcode.cn/problems/unique-paths/)|[JavaScript](./algorithms/unique-paths.js)|Medium|
 |66|[加一](https://leetcode-cn.com/problems/plus-one/)|[JavaScript](./algorithms/plus-one.js)|Easy|
 |69|[x 的平方根 ](https://leetcode.cn/problems/sqrtx/)|[JavaScript](./algorithms/sqrtx.js)|Easy|
 |70|[爬楼梯](https://leetcode.cn/problems/climbing-stairs/)|[JavaScript](./algorithms/climbing-stairs.js)|Easy|
