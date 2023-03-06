@@ -243,6 +243,7 @@
 |2341|[数组能形成多少数对](https://leetcode.cn/problems/maximum-number-of-pairs-in-array/)|[JavaScript](./algorithms/maximum-number-of-pairs-in-array.js)|Easy|
 |2351|[第一个出现两次的字母](https://leetcode.cn/problems/first-letter-to-appear-twice/)|[JavaScript](./algorithms/first-letter-to-appear-twice.js)|Easy|
 |2357|[使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)|[JavaScript](./algorithms/make-array-zero-by-subtracting-equal-amounts.js)|Easy|
+|6307|[递枕头](https://leetcode.cn/problems/pass-the-pillow/)|[JavaScript](./algorithms/pass-the-pillow.js)|Easy|
 |6308|[二叉树中的第 K 大层和](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)|[JavaScript](./algorithms/kth-largest-sum-in-a-binary-tree.js)|Medium|
 |6354|[找出数组的串联值](https://leetcode.cn/problems/find-the-array-concatenation-value/)|[JavaScript](./algorithms/find-the-array-concatenation-value.js)|Easy|
 |6362|[合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/)|[JavaScript](./algorithms/merge-two-2d-arrays-by-summing-values.js)|Easy|
