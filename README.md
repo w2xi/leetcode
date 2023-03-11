@@ -251,5 +251,6 @@
 |6367|[求出最多标记下标](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/)|[JavaScript](./algorithms/find-the-maximum-number-of-marked-indices.js)|Medium|
 |面试题 04.12|[面试题 04.12. 求和路径](https://leetcode.cn/problems/paths-with-sum-lcci/)|[JavaScript](./algorithms/paths-with-sum-lcci.js)|Medium|
 |面试题 02.07|[面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|[JavaScript](./algorithms/intersection-of-two-linked-lists-lcci.js)|Easy|
+|面试题 17.05.字母与数字|[面试题 17.05.字母与数字](https://leetcode.cn/problems/find-longest-subarray-lcci/)|[JavaScript](./algorithms/find-longest-subarray-lcci.js)|Medium|
 |剑指 Offer 05. 替换空格|[剑指 Offer 05. 替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|[JavaScript](./algorithms/ti-huan-kong-ge-lcof.js)|Easy|
 |剑指 Offer II 060. 出现频率最高的 k 个数字|[剑指 Offer II 060. 出现频率最高的 k 个数字](https://leetcode.cn/problems/g5c51o/)|[JavaScript](./algorithms/top-k-frequent-elements.js)|Medium|
