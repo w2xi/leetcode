@@ -84,6 +84,7 @@
 |122|[买卖股票的最佳时机 II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./algorithms/best-time-to-buy-and-sell-stock-ii.js)|Medium|
 |124|[二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)|[JavaScript](./algorithms/binary-tree-maximum-path-sum.js)|Hard|
 |125|[验证回文串](https://leetcode.cn/problems/valid-palindrome/)|[JavaScript](./algorithms/valid-palindrome.js)|Easy|
+|128|[最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/)|[JavaScript](./algorithms/longest-consecutive-sequence.js)|Medium|
 |129|[求根节点到叶节点数字之和](https://leetcode.cn/problems/sum-root-to-leaf-numbers/)|[JavaScript](./algorithms/sum-root-to-leaf-numbers.js)|Medium|
 |131|[分割回文串](https://leetcode.cn/problems/palindrome-partitioning/)|[JavaScript](./algorithms/palindrome-partitioning.js)|Medium|
 |134|[加油站](https://leetcode.cn/problems/gas-station/)|[JavaScript](./algorithms/gas-station.js)|Medium|
