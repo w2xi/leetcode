@@ -61,6 +61,7 @@
 |90|[90. 子集 II](https://leetcode.cn/problems/subsets-ii/)|[JavaScript](./algorithms/subsets-ii.js)|Medium|
 |93|[复原 IP 地址](https://leetcode.cn/problems/restore-ip-addresses/)|[JavaScript](./algorithms/restore-ip-addresses.js)|Medium|
 |94|[二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)|[JavaScript](./algorithms/binary-tree-inorder-traversal.js)|Easy|
+|96|[不同的二叉搜索树](https://leetcode.cn/problems/unique-binary-search-trees/)|[JavaScript](./algorithms/unique-binary-search-trees.js)||Medium|
 |98|[验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)|[JavaScript](./algorithms/validate-binary-search-tree.js)|Medium|
 |100|[相同的树](https://leetcode.cn/problems/same-tree/)|[JavaScript](./algorithms/same-tree.js)|Easy|
 |101|[对称二叉树](https://leetcode.cn/problems/symmetric-tree/)|[JavaScript](./algorithms/symmetric-tree.js)|Easy|
