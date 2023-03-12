@@ -250,6 +250,7 @@
 |2357|[使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)|[JavaScript](./algorithms/make-array-zero-by-subtracting-equal-amounts.js)|Easy|
 |6307|[递枕头](https://leetcode.cn/problems/pass-the-pillow/)|[JavaScript](./algorithms/pass-the-pillow.js)|Easy|
 |6308|[二叉树中的第 K 大层和](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)|[JavaScript](./algorithms/kth-largest-sum-in-a-binary-tree.js)|Medium|
+|6315|[统计范围内的元音字符串数](https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range/)|[JavaScript](./algorithms/count-the-number-of-vowel-strings-in-range.js)||
 |6354|[找出数组的串联值](https://leetcode.cn/problems/find-the-array-concatenation-value/)|[JavaScript](./algorithms/find-the-array-concatenation-value.js)|Easy|
 |6362|[合并两个二维数组 - 求和法](https://leetcode.cn/problems/merge-two-2d-arrays-by-summing-values/)|[JavaScript](./algorithms/merge-two-2d-arrays-by-summing-values.js)|Easy|
 |6367|[求出最多标记下标](https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/)|[JavaScript](./algorithms/find-the-maximum-number-of-marked-indices.js)|Medium|
