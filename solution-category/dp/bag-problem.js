@@ -1,7 +1,7 @@
 // 背包问题
 
-// 01 背包
-function bagProblem01() {
+// 01 背包 ( 二维 dp )
+function bagProblem() {
   const weights = [1,3,4]; // 物品的重量
   const values = [15,20,30]; // 物品的价值
   const capacity = 4; // 背包的容量
@@ -43,7 +43,38 @@ function bagProblem01() {
     }
   }
 
+  console.log(dp);
+
   return dp[n - 1][capacity];
 }
 
-console.log(bagProblem01()); // 35
+console.log(bagProblem()); // 35
+
+// 01 背包 ( 一维 dp, 滚动数组 )
+function bagProblem2() {
+  const weights = [1,3,4]; // 物品的重量
+  const values = [15,20,30]; // 物品的价值
+  const capacity = 4; // 背包的容量
+  const n = weights.length; // 物品个数
+
+  // dp[j] 的含义: 
+  // 容量为 j 的背包最大价值
+
+  //  递推公式:
+  // dp[j] = Math.max(dp[j], dp[j - weights[i]] + values[i])
+
+  // 初始化为 0
+  const dp = Array(capacity + 1).fill(0);
+
+  for (let i = 0; i < n; i++) { // 遍历物品
+    for (let j = capacity; j >= weights[i]; j--) { // 遍历背包容量 (逆序)
+      dp[j] = Math.max(dp[j], dp[j - weights[i]] + values[i]);
+    }
+  }
+
+  console.log(dp);
+
+  return dp[capacity];
+}
+
+console.log(bagProblem2());
