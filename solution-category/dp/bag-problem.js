@@ -78,3 +78,46 @@ function bagProblem2() {
 }
 
 console.log(bagProblem2());
+
+/**
+ * 背包问题 - 暴力解法
+ * @param {*} capacity 
+ * @param {*} weights 
+ * @param {*} values 
+ * @param {number} n 物品数量
+ */
+ function crashBag(capacity, weights, values, n) {
+  // capacity: 5
+  // weights: [2,3,4]
+  // values:  [3,4,5]
+
+  let weightSum = 0;
+  let valueSum = 0;
+  let maxValue = 0;
+
+  const backTracking = (start) => {
+    if (weightSum > capacity) return;
+    
+    maxValue = Math.max(maxValue, valueSum);
+
+    for (let i = start; i < n; i++) {
+      weightSum += weights[i];
+      valueSum += values[i];
+      console.log(weightSum)
+      backTracking(i + 1);
+      weightSum -= weights[i];
+      valueSum -= values[i];
+      console.log(weightSum)
+    }
+  }
+  backTracking(0);
+
+  return maxValue;
+}
+
+const maxValue = helper(5, [2,3,4], [3,4,5], 3);
+
+// console.log('max value:', maxValue);
+
+
+      
