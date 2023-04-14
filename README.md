@@ -214,6 +214,7 @@
 |988|[从叶结点开始的最小字符串](https://leetcode.cn/problems/smallest-string-starting-from-leaf/)|[JavaScript](./algorithms/smallest-string-starting-from-leaf.js)|Medium|
 |1002|[查找共用字符](https://leetcode.cn/problems/find-common-characters/)|[JavaScript](./algorithms/find-common-characters.js)|Easy|
 |1005|[K 次取反后最大化的数组和](https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/)|[JavaScript](./algorithms/maximize-sum-of-array-after-k-negations.js)|Easy|
+|1019|[链表中的下一个更大节点](https://leetcode.cn/problems/next-greater-node-in-linked-list/)|[JavaScript](./algorithms/next-greater-node-in-linked-list.js)|Medium|
 |1138|[字母板上的路径](https://leetcode.cn/problems/alphabet-board-path/)|[JavaScript](./algorithms/alphabet-board-path.js)|Medium|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
