@@ -253,6 +253,7 @@
 |2357|[使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)|[JavaScript](./algorithms/make-array-zero-by-subtracting-equal-amounts.js)|Easy|
 |2383|[赢得比赛需要的最少训练时长](https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/)|[JavaScript](./algorithms/minimum-hours-of-training-to-win-a-competition.js)|Easy|
 |2389|[和有限的最长子序列](https://leetcode.cn/problems/longest-subsequence-with-limited-sum/)|[JavaScript](./algorithms/longest-subsequence-with-limited-sum.js)|Easy|
+|2404|[出现最频繁的偶数元素](https://leetcode.cn/problems/most-frequent-even-element/)|[TypeScript](./algorithms/most-frequent-even-element.ts)|Easy|
 |6307|[递枕头](https://leetcode.cn/problems/pass-the-pillow/)|[JavaScript](./algorithms/pass-the-pillow.js)|Easy|
 |6308|[二叉树中的第 K 大层和](https://leetcode.cn/problems/kth-largest-sum-in-a-binary-tree/)|[JavaScript](./algorithms/kth-largest-sum-in-a-binary-tree.js)|Medium|
 |6315|[统计范围内的元音字符串数](https://leetcode.cn/problems/count-the-number-of-vowel-strings-in-range/)|[JavaScript](./algorithms/count-the-number-of-vowel-strings-in-range.js)|Easy|
