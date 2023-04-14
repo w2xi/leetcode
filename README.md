@@ -217,6 +217,7 @@
 |1138|[字母板上的路径](https://leetcode.cn/problems/alphabet-board-path/)|[JavaScript](./algorithms/alphabet-board-path.js)|Medium|
 |1038|[从二叉搜索树到更大和树](https://leetcode.cn/problems/binary-search-tree-to-greater-sum-tree/)|[JavaScript](./algorithms/binary-search-tree-to-greater-sum-tree.js)|Medium|
 |1047|[删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)|[JavaScript](./algorithms/remove-all-adjacent-duplicates-in-string.js)|Easy|
+|1053|[交换一次的先前排列](https://leetcode.cn/problems/previous-permutation-with-one-swap/)|[JavaScript](./algorithms/previous-permutation-with-one-swap.js)|Medium|
 |1233|[删除子文件夹](https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/)|[JavaScript](./algorithms/remove-sub-folders-from-the-filesystem.js)|Medium|
 |1305|[两棵二叉搜索树中的所有元素](https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/)|[JavaScript](./algorithms/all-elements-in-two-binary-search-trees.js)|Medium|
 |1413|[逐步求和得到正数的最小值](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)|[JavaScript](./algorithms/minimum-value-to-get-positive-step-by-step-sum.js)|Easy|
