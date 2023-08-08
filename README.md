@@ -202,6 +202,7 @@
 |738|[单调递增的数字](https://leetcode.cn/problems/monotone-increasing-digits/)|[JavaScript](./algorithms/monotone-increasing-digits.js)|Medium|
 |746|[使用最小花费爬楼梯](https://leetcode.cn/problems/min-cost-climbing-stairs/)|[JavaScript](./algorithms/min-cost-climbing-stairs.js)|Easy|
 |763|[划分字母区间](https://leetcode.cn/problems/partition-labels/)|[JavaScript](./algorithms/partition-labels.js)|Medium|
+|797|[所有可能的路径](https://leetcode.cn/problems/all-paths-from-source-to-target/description/)|[JavaScript](./algorithms/all-paths-from-source-to-target.js)|Medium|
 |831|[隐藏个人信息](https://leetcode.cn/problems/masking-personal-information/)|[JavaScript](./algorithms/masking-personal-information.js)|Medium|
 |844|[比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)|[JavaScript](./algorithms/backspace-string-compare.js)|Easy|
 |860|[柠檬水找零](https://leetcode.cn/problems/lemonade-change/)|[JavaScript](./algorithms/lemonade-change.js)|Easy|
